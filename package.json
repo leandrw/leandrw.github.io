@@ -1,6 +1,6 @@
 {
   "name": "leandrw.github.io",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "leandrw static website",
   "main": "README.md",
   "scripts": {
@@ -29,6 +29,5 @@
     "@11ty/eleventy": "^0.7.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
