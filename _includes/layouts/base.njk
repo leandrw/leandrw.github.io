@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#D04838">
+    <title>{{ title }} - leandrw's blog</title>
+    <link rel="stylesheet" href="{{ '/styles/main.css' | url }}">
+    <link rel="stylesheet" href="{{ '/styles/prism-darcula.css' | url }}" async>
+  </head>
+  <body>
+    <header>
+      <h1>leandrw's blog</h1>
+      <p>Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧</p>
+    </header>
+    {{ content | safe }}
+    <footer><a href="http://leandrw.com.br">leandrw's blog</a></footer>
+  </body>
+</html>
