@@ -7,6 +7,7 @@ module.exports = function(eleventyConfig) {
   defineI18nEnConfig(eleventyConfig);
   defineStylesPath(eleventyConfig);
   defineImagesPath(eleventyConfig);
+  defineDocs(eleventyConfig);
 };
 
 function definePlugins(eleventyConfig) {
@@ -30,4 +31,8 @@ function defineStylesPath(eleventyConfig) {
 
 function defineImagesPath(eleventyConfig) {
    eleventyConfig.addPassthroughCopy('wp-content');
+}
+
+function defineDocs(eleventyConfig) {
+  eleventyConfig.addPassthroughCopy('README.md');
 }
