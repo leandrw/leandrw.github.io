@@ -35,6 +35,7 @@
     "@11ty/eleventy": "^0.7.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1",
     "autoprefixer": "^9.4.8",
+    "luxon": "^1.11.3",
     "postcss-cli": "^6.1.2",
     "postcss-preset-env": "^6.5.0"
   },

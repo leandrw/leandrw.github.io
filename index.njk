@@ -1,0 +1,15 @@
+---
+layout: base
+tags:
+    - nav
+navtitle: Início
+---
+<h1>Leandro Cavalcante (@leandrw)</h1>
+
+<p>Olá, sou um desenvolvedor frontend experiente e com vontade de melhorar as coisas.</p>
+
+<h1>Posts recentes</h1>
+{% set postslist = collections.posts | head(-3) %}
+{% include "postslist.njk" %}
+
+<p><a href="{{ '/posts' | url }}">Veja mais</a></p>
