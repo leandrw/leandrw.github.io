@@ -4,9 +4,15 @@
   "description": "leandrw static website",
   "main": "README.md",
   "scripts": {
-    "build": "eleventy",
-    "start": "eleventy --serve --port=8081",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build:styles && eleventy",
+    "start": "npm run watch:styles & eleventy --serve --port=$npm_package_config_port",
+    "build:styles": "npx postcss $npm_package_config_src_css --dir $npm_package_config_dest_css",
+    "watch:styles": "npx postcss -w $npm_package_config_src_css --dir $npm_package_config_dest_css"
+  },
+  "config": {
+    "port": 8081,
+    "src_css": "styles/**/*.css",
+    "dest_css": "_assets/css"
   },
   "repository": {
     "type": "git",
@@ -27,7 +33,10 @@
   "homepage": "https://github.com/leandrw/leandrw.github.io#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.7.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.1",
+    "autoprefixer": "^9.4.8",
+    "postcss-cli": "^6.1.2",
+    "postcss-preset-env": "^6.5.0"
   },
   "dependencies": {}
 }

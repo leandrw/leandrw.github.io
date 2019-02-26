@@ -26,7 +26,7 @@ function defineI18nEnConfig(eleventyConfig) {
 }
 
 function defineStylesPath(eleventyConfig) {
-   eleventyConfig.addPassthroughCopy('styles');
+   eleventyConfig.addPassthroughCopy('_assets/css');
 }
 
 function defineImagesPath(eleventyConfig) {
