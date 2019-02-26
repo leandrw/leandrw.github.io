@@ -2,5 +2,9 @@
 layout: base
 ---
 <article>
-  <main>{{ content | safe }}</main>
+  <main>
+    <h1>{{ title }}</h1>
+    <p>Postado em <time datetime="{{ date }}">{{ date }}</time> por <a rel="author" href="https://leandrw.com.br/about">{{ author }}</a></p>
+    {{ content | safe }}
+  </main>
 </article>
