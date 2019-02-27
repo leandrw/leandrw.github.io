@@ -4,15 +4,17 @@
   "description": "leandrw static website",
   "main": "README.md",
   "scripts": {
-    "build": "npm run build:styles && eleventy",
-    "start": "npm run watch:styles & eleventy --serve --port=$npm_package_config_port",
+    "build": "npm run clean && npm run build:styles && eleventy",
+    "start": "npm run clean && npm run watch:styles & eleventy --serve --port=$npm_package_config_port",
+    "clean": "npx rimraf $npm_package_config_path_build",
     "build:styles": "npx postcss $npm_package_config_src_css --dir $npm_package_config_dest_css",
     "watch:styles": "npx postcss -w $npm_package_config_src_css --dir $npm_package_config_dest_css"
   },
   "config": {
     "port": 8081,
     "src_css": "styles/**/*.css",
-    "dest_css": "_assets/css"
+    "dest_css": "_assets/css",
+    "path_build": "_site"
   },
   "repository": {
     "type": "git",
@@ -37,7 +39,8 @@
     "autoprefixer": "^9.4.8",
     "luxon": "^1.11.3",
     "postcss-cli": "^6.1.2",
-    "postcss-preset-env": "^6.5.0"
+    "postcss-preset-env": "^6.5.0",
+    "rimraf": "^2.6.3"
   },
   "dependencies": {}
 }
