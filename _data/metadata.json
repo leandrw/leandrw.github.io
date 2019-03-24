@@ -1,7 +1,12 @@
 {
   "title": "leandrw's blog",
   "url": "https://leandrw.com.br/",
+  "icon": "/img/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2.jpg",
+  "image": "/img/uploads/2018/04/19983610_1944690089107544_5110083536341221085_o-min.jpg",
   "description": "Desenvolvedor Frontend em São Paulo",
+  "googleVerificationCode": "DTHZxnzoBeKSWLVSwplP9XUEClWk69KOALtnD5f9A6U",
+  "bingVerificationCode": "D748A3399203DD31606286700D0DBDDE",
+  "yandexVerificationCode": "def1e1d87ead906b",
   "feed": {
     "subtitle": "Desenvolvedor Frontend em São Paulo",
     "filename": "feed.xml",

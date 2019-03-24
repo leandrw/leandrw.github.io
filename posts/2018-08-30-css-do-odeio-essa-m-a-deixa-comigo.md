@@ -8,8 +8,6 @@ permalink: /css-do-odeio-essa-m-a-deixa-comigo/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
 image: /img/uploads/2018/08/Inkedamor-odio_LI-702x430.jpg
-categories:
-  - Sem categoria
 tags:
   - bem
   - css
@@ -21,15 +19,12 @@ tags:
   - smacss
 ---
 <blockquote>- traduzido e adaptado do excelente <a href="https://blog.10pines.com//2017/01/24/css-from-i-hate-it-to-i-actually-like-this-thing/" target="_blank" rel="noopener">post</a> do<a href="https://blog.10pines.com/authors/ignacio-piantanida/" target="_blank" rel="noopener"> Ignacio Piantanida</a> no <a href="https://blog.10pines.com/" target="_blank" rel="noopener">blog do 10pines</a>, de 24 de janeiro de 2017</blockquote>
-Me lembro dos meus primeiros dias como desenvolvedor web, quando peguei uma tarefa que parecia tão simples: <em>“nós precisamos adicionar um pequeno botão vermelho abaixo desse formulário. Ele precisa estar alinhado à direita. Ah! E verticalmente centralizado também”</em>. Eu estava condenado. Algumas horas gastas quebrando o layout, consertando-o e quebrando-o novamente a cada mudança no CSS que eu fazia… todos nós já passamos por isso antes.
+<p>Me lembro dos meus primeiros dias como desenvolvedor web, quando peguei uma tarefa que parecia tão simples: <em>“nós precisamos adicionar um pequeno botão vermelho abaixo desse formulário. Ele precisa estar alinhado à direita. Ah! E verticalmente centralizado também”</em>. Eu estava condenado. Algumas horas gastas quebrando o layout, consertando-o e quebrando-o novamente a cada mudança no CSS que eu fazia… todos nós já passamos por isso antes.</p>
 
-[caption id="attachment_903" align="alignnone" width="702"]<img class="wp-image-903 size-full" src="/img/uploads/2018/08/Inkedamor-odio_LI.jpg" alt="A handwrite phrase saying &quot;I hate/love you CSS&quot;" width="702" height="540" /> CSS &amp; Você: uma relação de amor e ódio[/caption]
+<p>Felizmente, depois de ler esse post você aprenderá algumas dicas para ajuda-lo(a) no seu caminho para dominar CSS plenamente.</p>
 
-Felizmente, depois de ler esse post você aprenderá algumas dicas para ajuda-lo(a) no seu caminho para dominar CSS plenamente.
-
-Bora lá!<!--more-->
 <h1>0. Esqueça os navegadores antigos</h1>
-Não chamaria isso exatamente de dica, ainda mais a 0, mas é algo que sempre levo em consideração ao iniciar um novo projeto.
+<p>Não chamaria isso exatamente de dica, ainda mais a 0, mas é algo que sempre levo em consideração ao iniciar um novo projeto.</p>
 
 Tente evitar ter que dar suporte a navegadores antigos. Dê uma olhada nas <a href="https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&amp;qpcustomd=0" target="_blank" rel="noopener">estatísticas de uso</a>, e balanceie a relação <strong>maior alcance de usuários x custos extra no desenvolvimento</strong>. Dar suporte a coisas mais velhas que o IE 10 dá muita dor de cabeça.
 
@@ -39,6 +34,7 @@ Se você já possui um site e as estatísticas dele, observe como as versões e 
 
 Dê suporte àquilo que vale a pena.
 <h1>1. Entenda as regras de precedência</h1>
+
 Eu não posso deixar de frisar isso. Se você não entende porque uma certa propriedade está sendo aplicada sobre outra, estará sempre em guerra com frameworks, bibliotecas e até mesmo com o monte de CSS dos seus próprios projetos.
 
 Digamos que você tem os seguintes códigos HTML e CSS:
@@ -77,6 +73,7 @@ Eu adoro esse joguinho, o <a href="http://flexboxfroggy.com/" target="_blank" re
 
 Você deverá tomar muito cuidado com a compatibilidade de cada navegador e seus prefixos. O que nos leva à próxima dica…
 <h1>4. Não escreva os prefixos de navegador manualmente</h1>
+
 Adicionar os prefixos de cada navegador implica em duplicação, o que é tedioso a leva a erros.
 
 <a href="https://github.com/postcss/autoprefixer" target="_blank" rel="noopener">Autoprefixer</a> é uma ferramenta que lhe ajudará a lidar com as pequenas diferenças entre os navegadores. Baseado no <a href="http://caniuse.com/" target="_blank" rel="noopener">CanIUse</a>, você define quais versões de navegador você deseja dar suporte e o autoprefixer procurará nos seus arquivos CSS e adicionará as propriedades necessárias para cada navegador. Esqueça toda essa porcaria de <em>-moz</em> ou <em>-webkit</em>.
@@ -120,6 +117,6 @@ Tornar-se profissional em CSS necessita de muito tempo e prática, mas com uma b
 
 E no final desse artigo, aliás, nenhum post sobre CSS pode ser completo sem esse GIF. Ele nunca fica velho!
 
-<a href="https://media.giphy.com/media/nArBQosm5nXdm/giphy.gif"><img class="alignnone size-full" src="https://media.giphy.com/media/nArBQosm5nXdm/giphy.gif" alt="Family Guy lidando tendo trabalho com uma cortina persiana" width="460" height="345" /></a>
+<a href="https://media.giphy.com/media/nArBQosm5nXdm/giphy.gif"><img class="alignnone size-full" src="https://media.giphy.com/media/nArBQosm5nXdm/giphy.gif" alt="Family Guy lidando tendo trabalho com uma cortina persiana" /></a>
 
 <em>Primeiramente postado no meu Medium em <a href="https://medium.com/@leandrw/css-do-odeio-essa-m-a-pode-deixar-comigo-f4203edfaec5" target="_blank" rel="noopener">CSS: do ‘Odeio essa m**’ a ‘pode deixar comigo!’</a></em>

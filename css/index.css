@@ -7,6 +7,7 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --font-base-size: 18px;
 }
 * {
   box-sizing: border-box;
@@ -18,15 +19,12 @@ body {
   font-family: sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
+  font-size: var(--font-base-size);
 }
 p:last-child {
   margin-bottom: 0;
 }
-p,
-.tmpl-post li,
-img {
-  max-width: 37.5em; /* 600px /16 */
-}
+
 p,
 .tmpl-post li {
   line-height: 1.45;
@@ -37,9 +35,7 @@ a[href] {
 a[href]:visited {
   color: var(--navy);
 }
-main {
-  padding: 1rem;
-}
+
 main :first-child {
   margin-top: 0;
 }
@@ -173,7 +169,7 @@ pre {
 
 
 /* Tags */
-.tag {
+.blog-tag {
   display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
@@ -185,8 +181,8 @@ pre {
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
-a[href].tag,
-a[href].tag:visited {
+a[href].blog-tag,
+a[href].blog-tag:visited {
   color: #fff;
 }
 
@@ -215,4 +211,33 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+.main {
+  margin: auto;
+  padding: 1rem 0;
+}
+
+.tmpl-home,
+.article {
+  margin: auto;
+  max-width: 100vw;
+
+  & > *:not(pre):not(img) {
+    padding: 0 1rem;
+  }
+}
+
+.post-cover {
+  width: 100%;
+}
+
+.size-full {
+  width: 100%;
+  max-width: 100vw;
+}
+
+@media screen and (min-width: 768px) {
+  .main {
+    max-width: 740px;
+  }
 }

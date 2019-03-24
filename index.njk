@@ -5,9 +5,9 @@ tags:
 navtitle: Início
 ---
 
-<h1>Latest 5 Posts</h1>
+<h1>Últimos 5 Posts</h1>
 
 {% set postslist = collections.posts | head(-5) %}
 {% include "postslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p>Mais posts em <a href="{{ '/posts/' | url }}">arquivo</a>.</p>
