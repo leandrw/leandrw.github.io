@@ -1,18 +1,14 @@
 ---
 id: 1063
-title: 'Querido diário&#8230; de 5 minutos'
+title: 'Querido diário 📕 de 5 minutos'
 date: 2018-11-19T01:20:28+00:00
 author: leandrw
 excerpt: Como larguei o preconceito e adotei o hábito que me permitiu reduzir a ansiedade, entender o que sinto, quem sou, o que quero e para onde estou indo que é manter um diário de 5 minutos...
 guid: https://leandrw.com.br/?p=1063
 permalink: /querido-diario-de-5-minutos/
-wpbf_options:
-  - 'a:0:{}'
-wpbf_sidebar_position:
-  - global
 image: /wp-content/uploads/2018/11/1-HgAo9v2OtMwk764DRTJQhQ.jpeg
 categories:
-  - 'Produtividade &amp; Desenvolvimento Pessoal'
+  - 'Produtividade & Desenvolvimento Pessoal'
 tags:
   - autoconhecimento
   - desenvolvimento pessoal
