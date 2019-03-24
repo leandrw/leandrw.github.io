@@ -1,50 +1,33 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="theme-color" content="#D04838">
-    <link rel="canonical" href="https://leandrw.com.br/" />
-    <meta name="description" content="Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧🇷"/>
-    <title>Speedup WSL by disabling Windows Real-time protection - leandrw's blog</title>
-    <link rel="stylesheet" href="/_assets/css/main.css">
-    <link rel="stylesheet" href="/_assets/css/prism-darcula.css" async>
-    <!-- site verification -->
-    <meta name="msvalidate.01" content="D748A3399203DD31606286700D0DBDDE" />
-    <meta name="google-site-verification" content="DTHZxnzoBeKSWLVSwplP9XUEClWk69KOALtnD5f9A6U" />
-    <meta name="yandex-verification" content="def1e1d87ead906b" />
-    <meta name="google-site-verification" content="DTHZxnzoBeKSWLVSwplP9XUEClWk69KOALtnD5f9A6U" />
-    <meta name="msvalidate.01" content="D748A3399203DD31606286700D0DBDDE" />
-    <!-- Open Graph -->
-    <meta property="og:locale" content="pt_BR" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="leandrw&#039;s blog | Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧🇷" />
-    <meta property="og:description" content="Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧🇷" />
-    <meta property="og:url" content="https://leandrw.com.br/" />
-    <meta property="og:site_name" content="leandrw&#039;s blog" />
-    <meta property="og:image" content="https://i0.wp.com/leandrw.com.br/wp-content/uploads/2018/04/19983610_1944690089107544_5110083536341221085_o-min.jpg?fit=1546%2C928&#038;ssl=1" />
-    <meta property="og:image:secure_url" content="https://i0.wp.com/leandrw.com.br/wp-content/uploads/2018/04/19983610_1944690089107544_5110083536341221085_o-min.jpg?fit=1546%2C928&#038;ssl=1" />
-    <meta property="og:image:width" content="1546" />
-    <meta property="og:image:height" content="928" />
-    <meta property="og:image:alt" content="leandrw (Leandro Cavalcante) - Desenvolvedor web em São Paulo - SP, Brasil." />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧🇷" />
-    <meta namke="twitter:title" content="leandrw&#039;s blog | Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧🇷" />
-    <meta name="twitter:site" content="@leandrw" />
-    <meta name="twitter:image" content="https://leandrw.com.br/wp-content/uploads/2018/04/19983610_1944690089107544_5110083536341221085_o-min.jpg" />
-    <!-- Favicons -->
-    <meta name="msapplication-TileImage" content="https://i1.wp.com/leandrw.com.br/wp-content/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2.jpg?fit=270%2C270&#038;ssl=1" />
-    <link rel="icon" href="https://i1.wp.com/leandrw.com.br/wp-content/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
-    <link rel="icon" href="https://i1.wp.com/leandrw.com.br/wp-content/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/leandrw.com.br/wp-content/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2.jpg?fit=180%2C180&#038;ssl=1" />
+    <title>Speedup WSL by disabling Windows Real-time protection</title>
+    <meta name="Description" content="Desenvolvedor Frontend em São Paulo">
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="leandrw&#39;s blog">
   </head>
   <body>
     <header>
-      <h1>leandrw's blog</h1>
-      <p>Desenvolvedor web 🌐🔗💻📱 em São Paulo, BRAZIL 🇧</p>
+      <h1 class="home"><a href="/">leandrw&#39;s blog</a></h1>
+      <ul class="nav"><li class="nav-item"><a href="/">Home</a></li><li class="nav-item"><a href="/posts/">Archive</a></li></ul>
     </header>
-    <article lang="en">
-  <main><p>In this short tutorial, I will help you speedup Windows Subsystem for Linux (WSL) by disabling Windows Real-time protection.</p>
+
+    <main class="tmpl-post">
+      <div class="warning">
+        <ol>
+          <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
+          <li>(Optional) Edit <code>.eleventy.js</code> with your configuration preferences.</li>
+          <li>Delete this message from <code>_includes/layouts/base.njk</code>.</li>
+        </ol>
+        <p><em>This is an <a href="https://www.11ty.io/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
+      </div>
+
+      <h1>Speedup WSL by disabling Windows Real-time protection</h1>
+
+<p>In this short tutorial, I will help you speedup Windows Subsystem for Linux (WSL) by disabling Windows Real-time protection.</p>
 <p>While being helpful detecting some common Windows malwares, in GNU/Linux side it’s so inefficient and actually unhelpful.</p>
 <p>Every time you try to access/read/write some file/folder, Windows Defender intercept WSL requisition for antivirus scanning, slowing down things until you hate everything in WSL!</p>
 <p>[caption id=&quot;attachment_887&quot; align=&quot;alignnone&quot; width=&quot;960&quot;]<img class="wp-image-887 size-full" src="https://leandrw.com.br/wp-content/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA.png" alt="Screenshot of Windows Subsystem for Linux executing apt-get update downloading slow at 46.6 kB/s" width="960" height="480" /> Ubuntu running inside WSL trying to update some packages behind Windows Real-time protection bad guy[/caption]</p>
@@ -74,9 +57,14 @@ I’ve only tested superficially, but I can ensure a great performance speed up.
 <h1>References:</h1>
 Configure always-on real-time protection in Windows Defender AV | Microsoft Docs — <a href="https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus" target="_blank" rel="noopener">https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus</a>
 <p>First posted on Medium <a href="https://medium.com/@leandrw/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74" target="_blank" rel="noopener">Speeding up WSL I/O up than 5x fast + saving a lot of battery life &amp; CPU usage</a>, as a reply to <a href="https://medium.com/@johnwoodruff91/epic-dev-environment-with-wsl-dc81e234ae61" target="_blank" rel="noopener">Epic Development Environment using Windows Subsystem for Linux</a></p>
-</main>
-</article>
 
-    <footer><a href="http://leandrw.com.br">leandrw's blog</a></footer>
+
+<p><a href="/">← Home</a></p>
+
+    </main>
+
+    <footer></footer>
+
+    <!-- Current page: /speedup-wsl-by-disabling-windows-real-time-protection/ -->
   </body>
 </html>

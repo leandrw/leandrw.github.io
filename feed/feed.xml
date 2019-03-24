@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>leandrw&#39;s blog</title>
+	<subtitle>Desenvolvedor Frontend em São Paulo</subtitle>
+	<link href="https://leandrw.com.br/feed/feed.xml" rel="self"/>
+	<link href="https://leandrw.com.br/"/>
+	<updated>2018-11-19T01:20:28+00:00</updated>
+	<id>https://leandrw.com.br/</id>
+	<author>
+		<name>Leandro Cavalcante</name>
+		<email>contato@leandrw.com.br</email>
+	</author>
+	
+	<entry>
+		<title>Universidade lança coleção de livros digitais para download gratuito</title>
+		<link href="https://leandrw.com.br/universidade-lanca-colecao-de-livros-digitais-para-download-gratuito/"/>
+		<updated>2014-03-23T01:43:31+00:00</updated>
+		<id>https://leandrw.com.br/universidade-lanca-colecao-de-livros-digitais-para-download-gratuito/</id>
+		<content type="html">&lt;p&gt;Para ter acesso ao conteúdo, basta cadastrar-se e efetuar o download. O site conta também com livros pagos.&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a href=&quot;http://culturaacademica.com.br/&quot; target=&quot;_blank&quot;&gt;http://culturaacademica.com.br&lt;/a&gt;&lt;/p&gt;
+Dica do &lt;a href=&quot;http://canaldoensino.com.br/blog/&quot; target=&quot;_blank&quot;&gt;@CanaldoEnsino&lt;/a&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>about.me &amp;#8211; serviço gratuito para quem precisa somente de uma página sobre si</title>
+		<link href="https://leandrw.com.br/about-me-servico-gratuito-para-quem-precisa-somente-de-uma-pagina-sobre-si/"/>
+		<updated>2014-04-03T19:52:47+00:00</updated>
+		<id>https://leandrw.com.br/about-me-servico-gratuito-para-quem-precisa-somente-de-uma-pagina-sobre-si/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://about.me/&quot; title=&quot;about.me - serviço gratuito para quem precisa somente de uma página sobre si&quot;&gt;about.me - serviço gratuito para quem precisa somente de uma página sobre si&lt;/a&gt;&lt;/p&gt;&lt;p&gt;O serviço http://about.me é excelente para quem quer apenas uma página públicas com links para seus perfis e portfólios.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Tabela de salários de profissões da área de TI</title>
+		<link href="https://leandrw.com.br/tabela-de-salarios-de-profissoes-da-area-de-ti/"/>
+		<updated>2014-04-06T23:54:50+00:00</updated>
+		<id>https://leandrw.com.br/tabela-de-salarios-de-profissoes-da-area-de-ti/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://info.abril.com.br/carreira/salarios/&quot; title=&quot;Tabela de salários de profissões da área de TI&quot;&gt;Tabela de salários de profissões da área de TI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Pesquisa realizada pela consultoria Desix no mês de março de 2012.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Git &amp;#8211; Sistema Descentralizado de Controle de Versões</title>
+		<link href="https://leandrw.com.br/git-sistema-descentralizado-de-controle-de-versoes/"/>
+		<updated>2014-06-22T02:09:09+00:00</updated>
+		<id>https://leandrw.com.br/git-sistema-descentralizado-de-controle-de-versoes/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Gb76vWj9URM&quot;&gt;https://www.youtube.com/watch?v=Gb76vWj9URM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Entenda os principais conceitos do Git - o DVCS que mais cresce no mundo.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Git Book em Português Brasil:&lt;br&gt;
+&lt;a href=&quot;http://git-scm.com/book/pt-br/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://git-scm.com/book/pt-br/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Introdução das premissas dos controles de versão:&lt;br&gt;
+&lt;a href=&quot;http://tableless.com.br/introducao-das-premissas-dos-controles-de-versao/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://tableless.com.br/introducao-das-premissas-dos-controles-de-versao/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Apresentação no Slideshare:&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://pt.slideshare.net/leandrw/git-sistema-descentralizado-de-controle-de-verses&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://pt.slideshare.net/leandrw/git-sistema-descentralizado-de-controle-de-verses&lt;/a&gt;&lt;/h2&gt;
+Redação: Elias Alves
+Edição: Jonatas Esteves
+Produção: Leandro Cavalcante (&lt;a title=&quot;Twitter&quot; href=&quot;http://twitter.com/leandrw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@leandrw&lt;/a&gt;)
+</content>
+	</entry>
+	
+	<entry>
+		<title>Git &amp;#8211; Trabalhando com um repositório localmente</title>
+		<link href="https://leandrw.com.br/git-trabalhando-com-um-repositorio-localmente/"/>
+		<updated>2014-06-22T02:50:23+00:00</updated>
+		<id>https://leandrw.com.br/git-trabalhando-com-um-repositorio-localmente/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Ai7BuJPEzDU&quot;&gt;https://www.youtube.com/watch?v=Ai7BuJPEzDU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aprenda a iniciar um repositório Git localmente, adicionar, alterar, comitar, visualizar o status do repositório e o log de alterações de arquivos.&lt;!--more--&gt;&lt;/p&gt;
+&lt;p&gt;Git Book em Português Brasil:&lt;br&gt;
+&lt;a href=&quot;http://git-scm.com/book/pt-br/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://git-scm.com/book/pt-br/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Iniciando no Git - parte 1:&lt;br&gt;
+&lt;a href=&quot;http://tableless.com.br/iniciando-no-git-parte-1/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://tableless.com.br/iniciando-no-git-parte-1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download do GitHub para Windows:&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://windows.github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://windows.github.com&lt;/a&gt;&lt;/h2&gt;
+Redação: Elias Alves
+Edição: Jonatas Esteves
+Produção: Leandro Cavalcante (&lt;a title=&quot;Twitter&quot; href=&quot;http://twitter.com/leandrw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@leandrw&lt;/a&gt;)
+</content>
+	</entry>
+	
+	<entry>
+		<title>Git &amp;#8211; Trabalhando com um repositório remoto e GitHub</title>
+		<link href="https://leandrw.com.br/git-trabalhando-com-um-repositorio-remoto-e-github/"/>
+		<updated>2014-06-22T02:53:27+00:00</updated>
+		<id>https://leandrw.com.br/git-trabalhando-com-um-repositorio-remoto-e-github/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=e6wlzHwoT5o&quot;&gt;https://www.youtube.com/watch?v=e6wlzHwoT5o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Aprenda a iniciar um repositório Git remoto com o GitHub, cloná-lo localmente, modificar um arquivo, sincronizá-lo com o servidor e obter as alterações do servidor. Veja como é utilizado o Git na IDE Eclipse.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;p&gt;Git Book em Português Brasil:&lt;br&gt;
+&lt;a href=&quot;http://git-scm.com/book/pt-br&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://git-scm.com/book/pt-br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Iniciando no Git - parte 2:&lt;br&gt;
+&lt;a href=&quot;http://tableless.com.br/iniciando-no-git-parte-2&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://tableless.com.br/iniciando-no-git-parte-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download do GitHub para Windows:&lt;br&gt;
+&lt;a href=&quot;http://windows.github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://windows.github.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Github:&lt;br&gt;
+&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Outras opções:&lt;br&gt;
+&lt;a href=&quot;http://codeplex.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://codeplex.com&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;http://bitbucket.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://bitbucket.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Download da IDE Eclipse:&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;http://eclipse.org/download&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://eclipse.org/download&lt;/a&gt;&lt;/h2&gt;
+Redação: Elias Alves
+Edição: Jonatas Esteves
+Produção: Leandro Cavalcante (&lt;a href=&quot;http://twitter.com/leandrw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@leandrw&lt;/a&gt;)
+</content>
+	</entry>
+	
+	<entry>
+		<title>Hack N&amp;#8217; Cast: um podcast brasileiro sobre cultura hacker</title>
+		<link href="https://leandrw.com.br/hack-n-cast-um-podcast-brasileiro-sobre-cultura-hacker/"/>
+		<updated>2014-07-22T20:49:39+00:00</updated>
+		<id>https://leandrw.com.br/hack-n-cast-um-podcast-brasileiro-sobre-cultura-hacker/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://leandrw-com-br.umbler.net/wp-content/uploads/2014/07/hack-n-cast-beta.png&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-1017&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/09/hack-n-cast-beta.png&quot; alt=&quot;Hack&#39;n&#39;Cast logo&quot; width=&quot;300&quot; height=&quot;142&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Não se engane pelo título americano ou pelo beta no nome. &lt;strong&gt;&lt;em&gt;Hack&#39; n&#39; Cast.: do-it-yourself&lt;/em&gt;&lt;/strong&gt; é um podcast brasileiro sobre a cultura hacker, movimento de software livre e outras coisas encabeçado por &lt;a title=&quot;Magnum&quot; href=&quot;http://mindbending.org/pt/sobre-mim&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;Magnun&lt;/strong&gt;&lt;/a&gt; e amparado por convidados. Apresentando conteúdo de forma irreverente e acompanhado de trilha sonora, o podcast tem me fornecido uma grande quantidade de informações e curiosidades sobre esses assuntos durante minhas micro-viagens por São Paulo. O projeto solicita bastante feedback, o que é muito positivo já que percebe-se o interesse dos responsáveis em criar uma comunidade. Conta também com sorteios e promoções, assim como descontos exclusivos em editoras importantes da área como Novatec. Assine o &lt;a href=&quot;http://feeds.feedburner.com/hack-n-cast&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;feed do Hack&#39;n&#39; Cast&lt;/a&gt; e contribua com sua audiência.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Dojo SP &amp;#8211; um grupo de Coding Dojo dinâmico e amistoso na terra da garoa</title>
+		<link href="https://leandrw.com.br/dojo-sp-um-grupo-de-coding-dojo-dinamico-e-amistoso-na-terra-da-garoa/"/>
+		<updated>2014-09-03T00:09:02+00:00</updated>
+		<id>https://leandrw.com.br/dojo-sp-um-grupo-de-coding-dojo-dinamico-e-amistoso-na-terra-da-garoa/</id>
+		<content type="html">&lt;p&gt;Você já frequentou algum &lt;strong&gt;Coding Dojo&lt;/strong&gt;? Sabe o que é um é um Coding Dojo? Se ao ver a palavra &amp;quot;Dojo&amp;quot; você lembrou do local onde o herói &lt;em&gt;Neo&lt;/em&gt; é apresentado as artes marciais por &lt;em&gt;Morpheus&lt;/em&gt; na obra &lt;em&gt;The Matrix&lt;/em&gt; dos irmãos Wachowski, você não está muito errada(o).&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;quot;attachment_1006&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;700&amp;quot;]&lt;img class=&quot;alignnone size-full wp-image-1006&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/09/mojodojo.jpg&quot; alt=&quot;Morpheus em um Dojo treinando o Neo&quot; width=&quot;700&quot; height=&quot;430&quot;&gt; Morpheus em seu Dojo virtual ensinando kung-fu de verdade para Neo[/caption]&lt;/p&gt;
+&lt;p&gt;O termo &lt;em&gt;Do&lt;/em&gt; (trilha) - &lt;em&gt;Jo&lt;/em&gt; (lugar) foi pego emprestado da cultura japonesa, onde é utilizado para referir-se ao local onde os praticantes de artes marciais vão treinar e aprimorar a execução dos movimentos da luta, cultivando-os como parte de uma arte. Mas o que Neo e artes marciais tem a ver com o desenvolvimento de software? Aparentemente nada (sei que podem encontrar diversas apresentações em sites como &lt;a href=&quot;http://slideshare.net/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;em&gt;slideshare&lt;/em&gt;&lt;/a&gt; por aí, fazendo analogias entre artes marciais e a arte de resolver problemas de forma lógica, mas são apenas analogias). Porém, nenhum outro termo traduziria melhor o local e atmosfera dessas reuniões de programadores.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2&gt;As regras do jogo&lt;/h2&gt;
+Durante um Coding Dojo, um pequeno grupo de desenvolvedores cujo número ideal é algo em torno de 15, se reúnem durante por cerca de uma hora para resolver um problema, utilizando técnicas de desenvolvimento ágil como desenvolvimento dirigido a testes (&lt;em&gt;Test Driven Development&lt;/em&gt;), programação pareada (&lt;em&gt;Pair Programming&lt;/em&gt;) e foco no resultado. A lógica de todo processo é bem interessante e se assemelha muito a um jogo, tornando tudo ainda mais interessante. Durante rodadas de 5 a 7 minutos, programadores revezam entre si em pares, onde um assume o papel de &lt;strong&gt;piloto&lt;/strong&gt; e, portanto, operador da máquina, enquanto outro denominado &lt;strong&gt;co-piloto&lt;/strong&gt; atua como um &lt;em&gt;consigliere&lt;/em&gt;, dando palpites para chegarem a solução, enquanto que todos os membros fazem parte da &lt;strong&gt;assistência&lt;/strong&gt;. A dupla deve incrementar a suite de testes e contribuir para que o algoritmo da resolução responsa positivamente ao caso de testes, mesmo que isso implique em trapacear (algo como colocar um &lt;em&gt;return true&lt;/em&gt; numa função de validação). Se o algoritmo passar no teste, a equipe pode contar com a ajuda de todos os programadores na assistência para melhorar ainda mais a resolução e de quebra aprender novos truques.
+&lt;p&gt;[caption id=&amp;quot;attachment_1007&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;500&amp;quot;]&lt;img class=&quot;alignnone size-full wp-image-1007&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/09/dojodesenho.jpg&quot; alt=&quot;Ilustração demonstrando a dinâmica de um coding dojo&quot; width=&quot;500&quot; height=&quot;366&quot;&gt; Driver = Piloto Navigator = Co-piloto Nova rodada a cada 5 a 7 minutos A assistência pode dar opinião[/caption]&lt;/p&gt;
+&lt;p&gt;Vale ressaltar que a dupla deve sempre comunicar o porquê de cada alteração na solução do problema, promovendo assim um ciclo de distribuição de conhecimento de via dupla. Se a resolução não passar no teste, a assistência se cala e aguarda que a dupla a frente resolva e teste novamente. Esses momentos de silencio da assistência são interessantíssimos, já que presenciamos como uma dupla toma decisões rapidamente e propõe, sem censuras, uma forma de resolver o problema. Ao término da rodada, o piloto vai para a assistência, o co-piloto passa para o cargo de piloto e um membro que estava na assistência assume o papel de co-piloto, dando início a uma nova rodada. O evento exige que ao menos um participante conheça a tecnologia tema do Dojo para resolver o problema, &lt;em&gt;não sendo obrigatório que todos os participantes tenham conhecimentos de desenvolvimento de software&lt;/em&gt;. A ideia é que a cada etapa tenha uma evolução bem leve, &lt;em&gt;baby-steps&lt;/em&gt; (passos de um bebê). Ao final do Dojo, os participantes avaliam e deixam seu feedback em murais recheados de &lt;em&gt;postits,&lt;/em&gt; como este em que participei abaixo:&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;quot;attachment_1008&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;450&amp;quot;]&lt;img class=&quot;alignnone size-full wp-image-1008&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/09/highres_397753392.jpeg&quot; alt=&quot;Painel de feedback do Coding Dojo&quot; width=&quot;450&quot; height=&quot;600&quot;&gt; Painel de feedback do Coding Dojo realizado na ThoughtWorks SP.[/caption]&lt;/p&gt;
+&lt;h2&gt;Dojo SP&lt;/h2&gt;
+E é com o objetivo de espalhar essa cultura em São Paulo que o grupo Coding Dojo SP surgiu. O grupo tem se reunido com uma frequência aproximadamente semanal no segundo semestre de 2014 e tem se espalhado numa &quot;mini caravana&quot; de desenvolvedores variada por aí, incentivando que os participantes montem também seus Dojos, algo que espero realizar em breve. Tive a oportunidade de participar de um Coding Dojo realizado na ToughtWorks SP na região da Avenida Paulista, e nunca, em nenhum outro evento de comunidade de software, fui tão bem recebido. Eu era o único a não ter participado ou sequer saber o que era um Coding Dojo e fui recebido muito bem. A comunidade é muito receptiva e variada, e conta com a participação de todos.
+&lt;p&gt;Para participar dos próximos Coding Dojos que acontecem praticamente uma vez por semana, basta ficar atenta(o) as notificações do perfil do coding Dojo SP no Meetup (link nas referências abaixo), nas regras do Dojo e se inscrever. Como o número ideal de um Dojo é de cerca de 15 membros, geralmente os eventos tem vagas limitadas e a inscrição deve ser feita com certa antecedência.&lt;/p&gt;
+&lt;p&gt;Que tal aprender uma nova tecnologia ou linguagem de programação, técnicas de desenvolvimento de software ágil, boas práticas e de quebra conhecer novos lugares e pessoas para montar o melhor networking da sua região e promover o conhecimento e trabalho em equipe? É pouco? Se você mora na terra da garoa (que passa por um período de seca digno de um romance de Guimarães Rosa) junte-se ao Coding Dojo-SP! Ou se faz parte de outro grupo, deixe nos comentários o nome dele e a qual região pertence. E se ainda não tem, comece um! Coding Dojos são muito mais do que falamos acima. São sobre utilizar a comunicação de uma maneira dinâmica e que visa o bem da comunidade. São sobre sermos melhores individualmente e em grupo.&lt;/p&gt;
+&lt;p&gt;Encontrei essa galera graças ao &lt;a href=&quot;http://www.meetup.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Meetup.com&lt;/a&gt;, uma rede social direcionada a grupos de qualquer coisa que queiram se reunir. O Meetup passou a ser um dos sites que mais acesso desde que o descobri e recomendo que dê uma passadinha por lá, ou melhor, &amp;quot;vá procurar sua turma!&amp;quot; e marque um encontro com ela no Meetup.&lt;/p&gt;
+&lt;h2&gt;Referências&lt;/h2&gt;
+&lt;address&gt;Dojo SP no Meetup - &lt;a href=&quot;http://www.meetup.com/Dojo-SP/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.meetup.com/Dojo-SP/&lt;/a&gt; , acessado em 2 de Setembro de 2014.&lt;/address&gt;&lt;address&gt;Meetup, uma rede social para grupos locais - &lt;a href=&quot;http://www.meetup.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.meetup.com/&lt;/a&gt; , acessado em 1 de Setembro de 2014.&lt;/address&gt;&lt;address&gt;Site da Thought Works em português, empresa que sediou o primeiro Coding Dojo que frequentei, &lt;a href=&quot;http://www.thoughtworks.com/pt/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.thoughtworks.com/pt/&lt;/a&gt; , acessado em 3 de Setembro de 2014.&lt;/address&gt;&lt;address&gt; &lt;/address&gt;&lt;address&gt;Wikipedia, Dojo - &lt;a href=&quot;https://pt.wikipedia.org/wiki/Dojo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pt.wikipedia.org/wiki/Dojo&lt;/a&gt; , acessado em 1 de Setembro de 2014.&lt;/address&gt;&lt;address&gt;Wikipedia, Matrix - &lt;a href=&quot;https://pt.wikipedia.org/wiki/Matrix&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://pt.wikipedia.org/wiki/Matrix&lt;/a&gt; , acessado em 1 de Setembro de 2014&lt;/address&gt;&lt;address&gt;The Matrix, Warner Bros. Pictures - 1999.&lt;/address&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Livros referência de TI e desenvolvimento de software de qualidade com download gratuito!</title>
+		<link href="https://leandrw.com.br/livros-referencia-de-ti-e-desenvolvimento-de-software-de-qualidade-com-download-gratuito/"/>
+		<updated>2014-09-17T23:46:32+00:00</updated>
+		<id>https://leandrw.com.br/livros-referencia-de-ti-e-desenvolvimento-de-software-de-qualidade-com-download-gratuito/</id>
+		<content type="html">&lt;p&gt;O site &lt;em&gt;IT eBooks&lt;/em&gt; disponibiliza para download gratuito, títulos técnicos com assuntos das áreas de desenvolvimento e engenharia de software, gerência de projetos e muito mais. O acervo conta com séries consolidadas como a &lt;a title=&quot;http://it-ebooks-search.info/search?q=head first&quot; href=&quot;http://it-ebooks-search.info/search?q=head%20first&quot; target=&quot;_blank&quot;&gt;Head First&lt;/a&gt; e &lt;a title=&quot;http://it-ebooks-search.info/search?q=professional&amp;amp;type=google&quot; href=&quot;http://it-ebooks-search.info/search?q=professional&amp;amp;type=google&quot; target=&quot;_blank&quot;&gt;Professional in&lt;/a&gt; em conteúdo completo.&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt;&lt;strong&gt;&lt;a title=&quot;http://it-ebooks.info/&quot; href=&quot;http://it-ebooks.info/&quot; target=&quot;_blank&quot;&gt;http://it-ebooks.info/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A inovação da solidão</title>
+		<link href="https://leandrw.com.br/a-inovacao-da-solidao/"/>
+		<updated>2014-10-26T22:27:45+00:00</updated>
+		<id>https://leandrw.com.br/a-inovacao-da-solidao/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=XJ9OmkcWg9E&quot;&gt;http://www.youtube.com/watch?v=XJ9OmkcWg9E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Um simples pensamento:&lt;/p&gt;
+&lt;p&gt;Os macacos, que sabemos ter uma vida social desenvolvida, se organizam em pequenos grupos com algumas dúzias de membros. O tamanho de cada grupo é limitado. Para que eles funcionem, todos os membros do grupo devem se conhecer bem. O tamanho médio do grupo varia de 20 a 50 membros. Quando o número de macacos em um grupo ultrapassa um certo limite, a ordem social desmorona e o grupo se divide em dois grupos distintos.&lt;/p&gt;
+&lt;p&gt;Uma situação similar acontece com os humanos também. &lt;!--more--&gt;A invenção da linguagem e boatos ajudaram a formar grupos maiores e mais coesos. Pesquisas sociológicas indicam que o tamanho máximo natural de um grupo de humanos seja de aproximadamente 150 membros. A maioria dos humanos é incapaz de conhecer intimamente mais de 150 pessoas. Assim, ainda hoje, o limite da organização humana fica ao redor de 150 membros. O ser humano é uma criatura social, e o sentimento de solidão pode enlouquecer. Entretanto o mundo moderno ocidental idolatra a individualidade. O indivíduo é medido pelas conquistas sociais como sua carreira, saúde, imagem e consumismo. Nesta situação, muitas pessoas perdem suas conexões sociais e familiares para favorecer um ideal de auto-realização. Conforme o tecido social no mundo ocidental se enfraquece, não é surpreendente que mais e mais pessoas se definam como solitárias. Assim a solidão se tornou a doença mais comum do mundo moderno.&lt;/p&gt;
+&lt;h2 style=&quot;text-align: center;&quot;&gt;A Inovação da solidão&lt;/h2&gt;
+Uma das possíveis razões para essa enfermidade são as redes sociais. Em um mundo onde tempo é dinheiro, em que nosso meio nos pressiona para conseguir mais e mais, a nossa vida social fica mais corrompida e exigente do que nunca. Então vem a tecnologia. Simples, promissora, otimista, sempre jovem. Nós ficamos viciados no romance virtual. Disfarçado pela rede social que fornece uma plataforma impressionante, que nos permite gerenciar nossa vida social de forma mais eficiente. Entretanto, nossas fantasias sobre substituições estão começando a cobrar um preço. Estamos colecionando amigos como selos. Sem distinguir quantidade de qualidade. Trocando o sentido profundo e íntimo da amizade pela troca de fotos e conversas de chat. Fazendo isso, nós sacrificamos a conversa pela simples conexão, criando uma situação paradoxal na qual afirmamos ter vários amigos, quando, na verdade, estamos sozinhos. Qual é o problema em ter uma conversa? Bem, ela acontece em tempo real. E você não pode controlar o que irá dizer. Esse é o ponto.
+&lt;p&gt;SMS, e-mail, postagens. Todas estas coisas nos permitem parecer com o que nós queremos ser. Podemos editar. Isso significa que podemos apagar. Em vez de construir amizades reais, nós ficamos obcecados com a promoção pessoal sem fim. Investimos horas na construção do nosso perfil procurando a melhor ordem para as palavras da nossa próxima postagem. Escolhendo as fotos em que estamos bem. Tudo isso para mostrar uma imagem agradável do que somos. Nós esperamos mais da tecnologia e menos uns dos outros. As redes sociais não estão apenas mudando o que fazemos. Mas também quem somos. Isso porque a tecnologia nos atrai mais quando estamos vulneráveis. E nós estamos vulneráveis. Estamos sozinhos. Mas temos medo da intimidade. E as redes sociais oferecem três fantasias gratificantes:&lt;/p&gt;
+&lt;p&gt;1- Que podemos direcionar nossa atenção para onde quisermos;&lt;br&gt;
+2- Que sempre seremos ouvidos;&lt;br&gt;
+3- Que nunca teremos que ficar sozinhos.&lt;/p&gt;
+&lt;p&gt;Essa terceira ideia, de que nunca teremos que ficar sozinhos, está mudando nossa mente. Está modelando um novo modo de ser. A melhor forma de descrevê-lo é: &amp;quot;Compartilho, logo existo&amp;quot;. Nós usamos a tecnologia para nos definir, ao compartilhar os pensamentos e sentimentos, à medida que eles acontecem. Além disso, estamos criando experiências para ter algo a compartilhar. Para nos sentirmos vivos. Nós acreditamos que estar sempre conectados irá nos fazer sentir menos sós. Mas estamos em risco. Porque o contrário é verdadeiro. Se não formos capazes de ficar sozinhos, nós apenas vamos aprender...&lt;br&gt;
+Como ser solitários.&lt;/p&gt;
+&lt;p&gt;Vídeo original:&lt;br&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=c6Bkr_udado&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.youtube.com/watch?v=c6Bkr_udado&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Texto de Shimi Cohen, da Shenkar College of Engineering and Design, baseado no livro de Sherry Turkle - Conectado mas só.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot; rel=&quot;license&quot;&gt;&lt;img style=&quot;border-width: 0;&quot; src=&quot;https://i.creativecommons.org/l/by/4.0/80x15.png&quot; alt=&quot;Licença Creative Commons&quot;&gt;&lt;/a&gt;&lt;br&gt;
+Este obra está licenciado com uma Licença &lt;a href=&quot;http://creativecommons.org/licenses/by/4.0/&quot; rel=&quot;license&quot;&gt;Creative Commons Atribuição 4.0 Internacional&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Problemas com o cURL ao atualizar o Opensuse</title>
+		<link href="https://leandrw.com.br/problemas-com-o-curl-ao-atualizar-o-opensuse/"/>
+		<updated>2015-01-16T22:57:18+00:00</updated>
+		<id>https://leandrw.com.br/problemas-com-o-curl-ao-atualizar-o-opensuse/</id>
+		<content type="html">&lt;p&gt;Recentemente decidi voltar ao GNU Linux para retomar meus estudos de Ruby on Rails e Mono. Não que o &lt;a href=&quot;https://www.vagrantup.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Vagrant&lt;/a&gt; não pudesse me atender adequadamente, mas almejava uma imersão maior na plataforma. Fora que fazer praticamente tudo do meu jeito e deixá-lo como quero são coisas que tenho sentido falta no Windows. Após a instalação da distribuição Opensuse, me deparei com o seguinte erro ao tentar atualizar os pacotes:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Download (curl) error for &#39;http://download.opensuse.org/distribution/13.2/repo/non-oss/content&#39;:
+Error code: Connection failed
+Error message: Failed to connect to download.opensuse.org port 80: Network is unreachable
+Abort, retry, ignore? [a/r/i/? shows all options] (a):
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Após pesquisar um pouco sobre a falha, encontrei no forum do opensuse a resposta: o curl tenta resolver os nomes como IPV6 por padrão, protocolo que no momento em que escrevo este post ainda não foi totalmente adotado no Brasil. Para resolver, basta forçar que o sistema utilize o IPV4 por padrão:&lt;/p&gt;
+&lt;p&gt;Adicionar as linhas abaixo no arquivo &lt;strong&gt;/etc/sysctl.conf&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre class=&quot;language-ini&quot;&gt;&lt;code class=&quot;language-ini&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;#disable ipv6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token constant&quot;&gt;net.ipv6.conf.all.disable_ipv6&lt;/span&gt; &lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token constant&quot;&gt;net.ipv6.conf.default.disable_ipv6&lt;/span&gt; &lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; 1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token constant&quot;&gt;net.ipv6.conf.lo.disable_ipv6&lt;/span&gt; &lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt; 1&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Executar o comando abaixo como &lt;code&gt;sudo su&lt;/code&gt;:&lt;/p&gt;
+&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;echo&lt;/span&gt; 1 &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; /proc/sys/net/ipv6/conf/all/disable_ipv6&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Reiniciar o sistema de pronto. Aqui funcionou. Caso precise de mais ajuda acompanhe a thread do fórum oficial do opensuse abaixo&lt;/p&gt;
+&lt;h2&gt;Referências:&lt;/h2&gt;
+Discussão sobre a falha no fórum oficial (inglês):
+&lt;a href=&quot;https://forums.opensuse.org/showthread.php/502176-YaST-is-unable-to-connect-to-repository-server-openSUSE-13-2?highlight=curl&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://forums.opensuse.org/showthread.php/502176-YaST-is-unable-to-connect-to-repository-server-openSUSE-13-2?highlight=curl&lt;/a&gt;
+&lt;p&gt;Solução resumida:&lt;br&gt;
+&lt;a href=&quot;http://www.businesscorner.co.uk/disable-ipv6-in-curl-and-php/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.businesscorner.co.uk/disable-ipv6-in-curl-and-php/&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>FIAP X &amp;#8211; um podcast sobre tecnologia da FIAP</title>
+		<link href="https://leandrw.com.br/fiap-x-um-podcast-sobre-tecnologia-da-fiap/"/>
+		<updated>2015-04-21T16:25:43+00:00</updated>
+		<id>https://leandrw.com.br/fiap-x-um-podcast-sobre-tecnologia-da-fiap/</id>
+		<content type="html">&lt;p&gt;Recentemente descobri um podcast patrocinado pela &lt;a href=&quot;http://www.fiap.com.br/conheca-a-fiap/quem-somos/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;FIAP&lt;/a&gt; interessante com alguns drops sobre tecnologia. São temas bem atuais e o podcast é relativamente novo. Quem quiser dar uma conferida, é só clicar na imagem abaixo:&lt;/p&gt;
+&lt;img class=&quot;alignnone size-full wp-image-1011&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/09/fiapx.png&quot; alt=&quot;logo do podcast fiap café&quot; width=&quot;700&quot; height=&quot;228&quot;&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Precisamos elaborar redes sociais que levem a mudanças reais</title>
+		<link href="https://leandrw.com.br/precisamos-elaborar-redes-sociais-que-levem-a-mudancas-reais/"/>
+		<updated>2016-01-16T11:08:45+00:00</updated>
+		<id>https://leandrw.com.br/precisamos-elaborar-redes-sociais-que-levem-a-mudancas-reais/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change&quot;&gt;http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Wael Ghonim, preso durante os prostestos da &lt;a href=&quot;http://www.wikiwand.com/pt/Revolu%C3%A7%C3%A3o_no_Egito_em_2011&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;primavera egípcia de 2011&lt;/a&gt;, trata nesta &lt;a href=&quot;http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;palestra TED&lt;/a&gt; sobre a importância que as redes sociais tiveram na liberação de seu país das mãos do então ditador &lt;a href=&quot;http://www.wikiwand.com/pt/Hosni_Mubarak&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mubarak&lt;/a&gt;. Mas infelizmente, como sabemos, os atos que se sucederam não foram os idealizados pela multidão que foi às ruas durante aquela madrugada escura na qual Ghonim foi sequestrado pela polícia egípcia. A polarização de discursos de ódio, &lt;em&gt;trolls&lt;/em&gt;, opiniãos inflexíveis e irrefletidas tomaram conta da rede egípcia, a mesma que outrora unira o povo egípcio para uma das mais importantes revoluções democráticas do novo milênio.&lt;/p&gt;
+&lt;h2&gt;Palavras-chaves familiares&lt;/h2&gt;
+Essas expressões parecem familiares para você?
+&lt;ul&gt;
+	&lt;li&gt;Discussões polarizadas;&lt;/li&gt;
+	&lt;li&gt;Divisão entre idealistas extremistas e pro-militares;&lt;/li&gt;
+	&lt;li&gt;Jornais com notícias mutuamente assertivas e razas;&lt;/li&gt;
+	&lt;li&gt;Opiniões curtas, extremadas e não ponderadas;&lt;/li&gt;
+	&lt;li&gt;&quot;Dê sua opinião, e nem tente voltar atrás: o histórico estará lá para apontarmos o dedo na sua cara&quot;;&lt;/li&gt;
+	&lt;li&gt;Necessidade de opinar urgentemente sem ter tempo para refletir apropriadamente.&lt;/li&gt;
+&lt;/ul&gt;
+Pois é, este texto foi escrito em uma época onde o extremismo político/religioso/revolucionário de esquina toma conta da internet brasileira e das ruas das capitais. O que me fez perguntar: é isso reflexo do momento em que passamos no Brasil, de crises e casos, onde o projeto de nação mal-educada atinge seu estágio de pleno desenvolvimento? Pelo que reflete Ghonim, parece que não.
+</content>
+	</entry>
+	
+	<entry>
+		<title>Windows command-line tip: Easily Change Window Transparency</title>
+		<link href="https://leandrw.com.br/windows-command-line-tip-easily-change-window-transparency/"/>
+		<updated>2017-10-22T00:27:19+00:00</updated>
+		<id>https://leandrw.com.br/windows-command-line-tip-easily-change-window-transparency/</id>
+		<content type="html">&lt;img class=&quot;alignnone size-full wp-image-789&quot; src=&quot;http://leandrw-com-br.umbler.net/wp-content/uploads/2017/10/1-VC-J-0V3pZj6m2L4HwyvMQ.gif&quot; alt=&quot;&quot; width=&quot;697&quot; height=&quot;417&quot;&gt;
+&lt;p&gt;&lt;em&gt;Smart tip:&lt;/em&gt; when using Windows 10 command-line tools such as WSL, Ubuntu, Powershell or even CMD, you can:&lt;/p&gt;
+&lt;pre&gt;CTRL + Shift + Scroll Up/Down = change window transparency level&lt;/pre&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Speedup WSL by disabling Windows Real-time protection</title>
+		<link href="https://leandrw.com.br/speedup-wsl-by-disabling-windows-real-time-protection/"/>
+		<updated>2018-08-30T00:01:54+00:00</updated>
+		<id>https://leandrw.com.br/speedup-wsl-by-disabling-windows-real-time-protection/</id>
+		<content type="html">&lt;p&gt;In this short tutorial, I will help you speedup Windows Subsystem for Linux (WSL) by disabling Windows Real-time protection.&lt;/p&gt;
+&lt;p&gt;While being helpful detecting some common Windows malwares, in GNU/Linux side it’s so inefficient and actually unhelpful.&lt;/p&gt;
+&lt;p&gt;Every time you try to access/read/write some file/folder, Windows Defender intercept WSL requisition for antivirus scanning, slowing down things until you hate everything in WSL!&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;quot;attachment_887&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;960&amp;quot;]&lt;img class=&quot;wp-image-887 size-full&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA.png&quot; alt=&quot;Screenshot of Windows Subsystem for Linux executing apt-get update downloading slow at 46.6 kB/s&quot; width=&quot;960&quot; height=&quot;480&quot;&gt; Ubuntu running inside WSL trying to update some packages behind Windows Real-time protection bad guy[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Warning&lt;/strong&gt;: disabling Real-time Security may have some direct impact in yours personal security&lt;/em&gt;. Know what you are doing.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h1&gt;Adding WSL in the Windows Security&#39;s Exclusion List&lt;/h1&gt;
+So, first get the UbuntuOnLinux (or your distro of choice) installation path going to &lt;em&gt;%USERPROFILE%\AppData\Local\Packages&lt;/em&gt; and lookup for something like &lt;em&gt;CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc&lt;/em&gt;.
+&lt;p&gt;Copy the entire path from &lt;em&gt;Explorer.exe&lt;/em&gt; address bar, then go to:&lt;/p&gt;
+&lt;p&gt;Settings &amp;gt; Update &amp;amp; Security &amp;gt; Windows Defender &amp;gt; Open Windows Defender Secutiry Central &amp;gt; Protection Against Viruses &amp;amp; Threats &amp;gt; Advanced Config… &amp;gt; Exclusions &amp;gt; Add or Remove &amp;gt; Add &amp;gt; Folder and finally: paste the previous copied path.&lt;/p&gt;
+&lt;h1&gt;High security sometimes means Low performance&lt;/h1&gt;
+[caption id=&quot;attachment_888&quot; align=&quot;alignnone&quot; width=&quot;618&quot;]&lt;img class=&quot;wp-image-888 size-full&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/08/1-Cb8wWHPg6h_bgN8P7cnULg.jpeg&quot; alt=&quot;Screenshot of Windows Defender Security Center showing Real-time protection as disabled&quot; width=&quot;618&quot; height=&quot;594&quot;&gt; Windows Defender Real-time slow down… protection[/caption]
+&lt;p&gt;Adding WSL to exclusion list may speedup things a little bit, but not so. There is one more thing bringing your performance down: Window Defender real-time protection.&lt;/p&gt;
+&lt;p&gt;As noticed by &lt;a href=&quot;https://github.com/tanseydavid&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;David Tansey&lt;/a&gt; in this &lt;a href=&quot;https://github.com/Microsoft/WSL/issues/1932&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;WSL issue&lt;/a&gt;, real-time protection have a HUGE impact in developer tools like Visual Studio build tool and tools like Kubernetes and etc., including WSL.&lt;/p&gt;
+&lt;p&gt;We will disable it, but be aware: you will may be more vulnerable for some common attacks through malicious script execution.&lt;/p&gt;
+&lt;p&gt;So, let’s disable:&lt;/p&gt;
+&lt;h2&gt;Using Group Policy (gpedit.exe) to disable real-time protection:&lt;/h2&gt;
+[caption id=&quot;attachment_889&quot; align=&quot;alignnone&quot; width=&quot;800&quot;]&lt;img class=&quot;wp-image-889 size-full&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg.png&quot; alt=&quot;Screenshot of Group Policy Editor (a.k.a. gpedit.msc)&quot; width=&quot;800&quot; height=&quot;426&quot;&gt; Using Group Policy (gpedit.msc) to disable real-time protection[/caption]
+&lt;ol&gt;
+ 	&lt;li&gt;On your Group Policy management machine, open the Group Policy Management Console, right-click the Group Policy Object you want to configure and click Edit.&lt;/li&gt;
+ 	&lt;li&gt;In the Group Policy Management Editor go to Computer configuration.&lt;/li&gt;
+ 	&lt;li&gt;Click Policies then Administrative templates.&lt;/li&gt;
+ 	&lt;li&gt;Expand the tree to Windows components &amp;gt; Windows Defender Antivirus &amp;gt; Real-time protection.&lt;/li&gt;
+ 	&lt;li&gt;Double-click the Turn off real-time protection setting and set the option to Enabled. Click OK.&lt;/li&gt;
+&lt;/ol&gt;
+I’ve only tested superficially, but I can ensure a great performance speed up.
+&lt;blockquote&gt;&lt;em class=&quot;markup--em markup--p-em&quot;&gt;Disclaimer: I have plans to improve my English skill, but my willing to help is bigger than that.&lt;/em&gt;&lt;/blockquote&gt;
+&lt;h1&gt;References:&lt;/h1&gt;
+Configure always-on real-time protection in Windows Defender AV | Microsoft Docs — &lt;a href=&quot;https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://docs.microsoft.com/en-us/windows/threat-protection/windows-defender-antivirus/configure-real-time-protection-windows-defender-antivirus&lt;/a&gt;
+&lt;p&gt;First posted on Medium &lt;a href=&quot;https://medium.com/@leandrw/speeding-up-wsl-i-o-up-than-5x-fast-saving-a-lot-of-battery-life-cpu-usage-c3537dd03c74&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Speeding up WSL I/O up than 5x fast + saving a lot of battery life &amp;amp; CPU usage&lt;/a&gt;, as a reply to &lt;a href=&quot;https://medium.com/@johnwoodruff91/epic-dev-environment-with-wsl-dc81e234ae61&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Epic Development Environment using Windows Subsystem for Linux&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>CSS: do ‘Odeio essa m**’ a ‘deixa comigo!’</title>
+		<link href="https://leandrw.com.br/css-do-odeio-essa-m-a-deixa-comigo/"/>
+		<updated>2018-08-30T01:06:35+00:00</updated>
+		<id>https://leandrw.com.br/css-do-odeio-essa-m-a-deixa-comigo/</id>
+		<content type="html">&lt;blockquote&gt;- traduzido e adaptado do excelente &lt;a href=&quot;https://blog.10pines.com//2017/01/24/css-from-i-hate-it-to-i-actually-like-this-thing/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;post&lt;/a&gt; do&lt;a href=&quot;https://blog.10pines.com/authors/ignacio-piantanida/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; Ignacio Piantanida&lt;/a&gt; no &lt;a href=&quot;https://blog.10pines.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;blog do 10pines&lt;/a&gt;, de 24 de janeiro de 2017&lt;/blockquote&gt;
+Me lembro dos meus primeiros dias como desenvolvedor web, quando peguei uma tarefa que parecia tão simples: &lt;em&gt;“nós precisamos adicionar um pequeno botão vermelho abaixo desse formulário. Ele precisa estar alinhado à direita. Ah! E verticalmente centralizado também”&lt;/em&gt;. Eu estava condenado. Algumas horas gastas quebrando o layout, consertando-o e quebrando-o novamente a cada mudança no CSS que eu fazia… todos nós já passamos por isso antes.
+&lt;p&gt;[caption id=&amp;quot;attachment_903&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;702&amp;quot;]&lt;img class=&quot;wp-image-903 size-full&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/08/Inkedamor-odio_LI.jpg&quot; alt=&quot;A handwrite phrase saying &amp;quot;I hate/love you CSS&amp;quot;&quot; width=&quot;702&quot; height=&quot;540&quot;&gt; CSS &amp;amp; Você: uma relação de amor e ódio[/caption]&lt;/p&gt;
+&lt;p&gt;Felizmente, depois de ler esse post você aprenderá algumas dicas para ajuda-lo(a) no seu caminho para dominar CSS plenamente.&lt;/p&gt;
+&lt;p&gt;Bora lá!&lt;!--more--&gt;&lt;/p&gt;
+&lt;h1&gt;0. Esqueça os navegadores antigos&lt;/h1&gt;
+Não chamaria isso exatamente de dica, ainda mais a 0, mas é algo que sempre levo em consideração ao iniciar um novo projeto.
+&lt;p&gt;Tente evitar ter que dar suporte a navegadores antigos. Dê uma olhada nas &lt;a href=&quot;https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&amp;amp;qpcustomd=0&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;estatísticas de uso&lt;/a&gt;, e balanceie a relação &lt;strong&gt;maior alcance de usuários x custos extra no desenvolvimento&lt;/strong&gt;. Dar suporte a coisas mais velhas que o IE 10 dá muita dor de cabeça.&lt;/p&gt;
+&lt;p&gt;É claro, nem sempre isso será possível. Eu conheço uma empresa que obriga todos os seus colaboradores que não trabalham diretamente com T.I. a usa o IE 7, então todas as ferramentas internas devem funcionar no dito-cujo. Se este é o seu caso, eu realmente sinto muito por você. Não poderei ajuda-lo(a).&lt;/p&gt;
+&lt;p&gt;Se você já possui um site e as estatísticas dele, observe como as versões e navegadores se comportam dentro do contexto do negócio. Por exemplo, em um dos projetos em que trabalhei, a porcentagem de usuários de IE era baixa em termos de visitas. Mas quando você olhava para dados como os de conversão de vendas por navegador, os usuários de IE tinham uma taxa de conversão muito maior, o que representava uma boa porcentagem de vendas.&lt;/p&gt;
+&lt;p&gt;Dê suporte àquilo que vale a pena.&lt;/p&gt;
+&lt;h1&gt;1. Entenda as regras de precedência&lt;/h1&gt;
+Eu não posso deixar de frisar isso. Se você não entende porque uma certa propriedade está sendo aplicada sobre outra, estará sempre em guerra com frameworks, bibliotecas e até mesmo com o monte de CSS dos seus próprios projetos.
+&lt;p&gt;Digamos que você tem os seguintes códigos HTML e CSS:&lt;/p&gt;
+&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;container&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;my-container&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;  I want my &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;span&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;text red&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;color&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;span&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token style language-css&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#container span&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;  &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; blue&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;.my-container .text.red&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;  &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; red&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;style&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Qual você acha que será a cor do texto?&lt;/p&gt;
+&lt;p&gt;Se sua resposta foi &lt;em&gt;“eu não ligo, simplesmente vou colocar um &lt;strong&gt;!important&lt;/strong&gt; no que eu quero”&lt;/em&gt;, bem, lhe desejo uma vida regada a muito IE6.&lt;/p&gt;
+&lt;p&gt;Para o resto das pessoas que ligam, a resposta é &lt;span style=&quot;color: #0000ff;&quot;&gt;&lt;strong&gt;azul&lt;/strong&gt;&lt;/span&gt;. Não interessa quantos seletores você adicionar na segunda regra, você nunca fará com que o texto fique &lt;span style=&quot;color: #ff0000;&quot;&gt;vermelho&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;A chave é que os diferentes tipos de seletores (&lt;em&gt;#id&lt;/em&gt;, &lt;em&gt;.class&lt;/em&gt;, &lt;em&gt;element&lt;/em&gt; e &lt;em&gt;inline&lt;/em&gt;) possuem diferentes precedências. Cada seletor possui um ‘peso’, e o maior peso ganha.&lt;/p&gt;
+&lt;p&gt;Uma boa fonte de estudo e compreensão sobre o assunto é o curtíssimo post do Steven Bradley, &lt;a href=&quot;http://vanseodesign.com/css/css-specificity-inheritance-cascaade/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;(Understanding Style Precedence in CSS: Specificity, Inheritance, and the Cascade)&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;2. Utilize um pré-processador de CSS&lt;/h1&gt;
+Hoje em dia é difícil achar uma webapp que use só o CSS puro sem o uso de um pré-processador, mas se você está iniciando um novo projeto, adicione um pré-processador o quanto antes. Mixins, variáveis, herança e import ajudarão a manter seus estilos modulares e sem repetições (princípio DRY) do começo ao fim.
+&lt;p&gt;Eu sempre escolho &lt;a href=&quot;http://sass-lang.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Sass&lt;/a&gt;, que atualmente é o pré-processador CSS mais utilizado, seguido pelo &lt;a href=&quot;http://lesscss.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Less&lt;/a&gt; (nota do tradutor: não escolha Less).&lt;/p&gt;
+&lt;h1&gt;3. Abrace o Flexbox para posicionamento&lt;/h1&gt;
+Com &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;flexbox&lt;/a&gt; você pode construir um layout responsivo consistente, com apenas um pequeno conjunto de regras. Depois de usa-lo pela primeira vez, você nunca mais irá querer usar um float ou o &lt;a href=&quot;http://getbootstrap.com/css/#grid&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;grid system do bootstrap&lt;/a&gt; novamente.
+&lt;p&gt;Eu adoro esse joguinho, o &lt;a href=&quot;http://flexboxfroggy.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;flexboxfroggy.com&lt;/a&gt;, para aprender o básico.&lt;/p&gt;
+&lt;p&gt;Você deverá tomar muito cuidado com a compatibilidade de cada navegador e seus prefixos. O que nos leva à próxima dica…&lt;/p&gt;
+&lt;h1&gt;4. Não escreva os prefixos de navegador manualmente&lt;/h1&gt;
+Adicionar os prefixos de cada navegador implica em duplicação, o que é tedioso a leva a erros.
+&lt;p&gt;&lt;a href=&quot;https://github.com/postcss/autoprefixer&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Autoprefixer&lt;/a&gt; é uma ferramenta que lhe ajudará a lidar com as pequenas diferenças entre os navegadores. Baseado no &lt;a href=&quot;http://caniuse.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CanIUse&lt;/a&gt;, você define quais versões de navegador você deseja dar suporte e o autoprefixer procurará nos seus arquivos CSS e adicionará as propriedades necessárias para cada navegador. Esqueça toda essa porcaria de &lt;em&gt;-moz&lt;/em&gt; ou &lt;em&gt;-webkit&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Independente de qual stack você utilize durante o desenvolvimento, &lt;a href=&quot;https://webpack.js.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;webpack&lt;/a&gt;, &lt;a href=&quot;https://gulpjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;gulp&lt;/a&gt; ou &lt;a href=&quot;https://gruntjs.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;grunt&lt;/a&gt;, é muito simples integra-lo.&lt;/p&gt;
+&lt;p&gt;Se você não quer mudar nada no seu pipeline, ao menos utilize alguma coisa tipo o &lt;a href=&quot;http://bourbon.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Bourbon&lt;/a&gt;, uma biblioteca de mixins Sass que adicionam todos os prefixos para você.&lt;/p&gt;
+&lt;h1&gt;5. Não utilize qualquer nome para classes, utilize uma metodologia&lt;/h1&gt;
+Conforme o projeto cresce, o número e grau de complexidade das suas páginas de estilo podem se tornar um problema. Se não for cuidadoso(a), adicionar uma simples propriedade a uma classe pode ter um gigantesco impacto em outras partes do site que você nem sequer imagina.
+&lt;p&gt;Usar uma metodologia específica irá prevenir esse tipo de erro. Ao mesmo tempo, definirá um padrão para sua base de código, garantindo consistência entre tantos estilos de diferentes desenvolvedores.&lt;/p&gt;
+&lt;p&gt;Há diversas técnicas para lidar com isso como BEM, &lt;a href=&quot;http://oocss.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;OOCSS&lt;/a&gt;, &lt;a href=&quot;https://smacss.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SMACSS&lt;/a&gt;, etc… a única com a qual essou bem familiarizado é a &lt;a href=&quot;http://getbem.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;BEM&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Com BEM (Box, Element, Modifier), você define classes do tipo &lt;em&gt;.bloco__elemento — modificador&lt;/em&gt;. Por exemplo, se você tem um cabeçalho com o logo da empresa e um botão de login, você terá classes como &lt;em&gt;.cabecalho__logo-empresa&lt;/em&gt;, &lt;em&gt;.cabecalho__btn-logar&lt;/em&gt; ou &lt;em&gt;.cabecalho__btn-logar — oculto&lt;/em&gt;. Assim, toda vez que olhar para um seletor numa folha de estilos, você saberá em qual elemento ele está interferindo e onde encontra-lo.&lt;/p&gt;
+&lt;p&gt;Além disso, a BEM sugere uma estrutura chapada de classes (ao invés de aninhar tudo como &lt;em&gt;.cabecalho .btn-logar&lt;/em&gt;). Dessa forma, você desacopla seus estilos das estruturas no HTML e seu estilo sempre funcionará da mesma forma (exceto para propriedades herdadas, é claro).&lt;/p&gt;
+&lt;h1&gt;6. Entenda as diferentes unidades de medida&lt;/h1&gt;
+Você sabe a diferença entre px, em e rem?
+&lt;p&gt;Você sabe o que as unidades de viewport (vw e vh) são?&lt;/p&gt;
+&lt;p&gt;Adicionar unidades além do px e % na sua caixa de ferramentas lhe permitirá expandir o que poderá fazer, especialmente ao lidar com sites responsivos. Aprenda mais sobre elas &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/length&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;7. Entenda todos os diferentes valores do POSITION&lt;/h1&gt;
+Já se perguntou porque às vezes você define o position como absolute e o elemento voa direto para o topo da página e outras vezes simplesmente permanece no mesmo lugar?
+A chave é como os &lt;a href=&quot;http://www.w3schools.com/css/css_positioning.asp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;valores do position&lt;/a&gt; interagem entre si. absolute, relative, fixed ou static possuem seus próprios casos de uso e você deve entender onde cada um deles deve ser usado.
+&lt;h1&gt;8. Pseudo-seletores&lt;/h1&gt;
+Os seletores CSS não são só as classes, ids e elementos. A cada nova versão da especificação CSS, um novo pseudo seletor aparece e permite realizar coisas com CSS puro que antes só podiam ser realizadas com Javascript ou processamento no servidor.
+&lt;p&gt;&lt;em&gt;:last-of-type, :last-child, ::before&lt;/em&gt; são alguns dos exemplos de pseudo seletores que são usados a todo tempo. &lt;a href=&quot;https://kimblim.dk/css-tests/selectors/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Este site&lt;/a&gt; mostra uma lista gigantesca de pseudo seletores incluindo definição, exemplos e o suporte em cada versão de navegador.&lt;/p&gt;
+&lt;p&gt;Não há muitos segredos aqui, mas assegure-se de que entende tudo o que as abas Styles e Computed têm a oferecer. Elas são muito úteis para entender onde certas propriedades estão sendo sobre-escritas e testar coisas novas rapidamente.&lt;/p&gt;
+&lt;p&gt;Além disso, garanta no seu fluxo de desenvolvimento que os source maps estão sendo gerados, assim você poderá ver em qual arquivo/linha aquela propriedade está sendo definida, diretamente pelo navegador.&lt;/p&gt;
+&lt;h1&gt;Conclusão&lt;/h1&gt;
+Após compreender todos esses 9 pontos, você possuirá um vasto conhecimento de como controlar seus estilos, especialmente em questão de layout, que na minha opinião é a parte mais complexa.
+&lt;p&gt;É claro que o mundo do CSS é muito mais do que layout e há muitos outros tópicos mais avançados para cobrir, como animações, transições, transformações, o &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;novo grid layout&lt;/a&gt;, etc… mas quanto a isso, você precisará entender o que cada propriedade faz e o que são os seus diferentes valores, mas tudo que tratamos aqui servirá como uma base sólida.&lt;/p&gt;
+&lt;p&gt;Tornar-se profissional em CSS necessita de muito tempo e prática, mas com uma base sólida não será uma jornada difícil.&lt;/p&gt;
+&lt;p&gt;E no final desse artigo, aliás, nenhum post sobre CSS pode ser completo sem esse GIF. Ele nunca fica velho!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://media.giphy.com/media/nArBQosm5nXdm/giphy.gif&quot;&gt;&lt;img class=&quot;alignnone size-full&quot; src=&quot;https://media.giphy.com/media/nArBQosm5nXdm/giphy.gif&quot; alt=&quot;Family Guy lidando tendo trabalho com uma cortina persiana&quot; width=&quot;460&quot; height=&quot;345&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Primeiramente postado no meu Medium em &lt;a href=&quot;https://medium.com/@leandrw/css-do-odeio-essa-m-a-pode-deixar-comigo-f4203edfaec5&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CSS: do ‘Odeio essa m**’ a ‘pode deixar comigo!’&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Workstation 💻📱📓 (início 2018)</title>
+		<link href="https://leandrw.com.br/workstation-inicio-2018/"/>
+		<updated>2018-09-13T03:41:40+00:00</updated>
+		<id>https://leandrw.com.br/workstation-inicio-2018/</id>
+		<content type="html">&lt;h1&gt;Software 💽&lt;/h1&gt;
+&lt;h2&gt;Windows 🐱‍💻&lt;/h2&gt;
+Tenho uma instalação do &lt;strong&gt;Windows 10 Pro&lt;/strong&gt;, com Hyper-V habilitado e outra entrada de boot com Hyper-V desabilitado, que uso quando trabalho com vagrant + Virtualbox. Por padrão uso o Hyper-V habilitado com o &lt;em&gt;Docker for Windows&lt;/em&gt;.
+&lt;p&gt;O Windows Subsystem for Linux (WSL) está ativado, e uso para testar coisas de frontend web e verificar o status atual da ferramenta. O &lt;a href=&quot;https://twitter.com/richturn_ms&quot;&gt;Rich Turner (@richturn_ms)&lt;/a&gt; e equipe estão fazendo um trabalho sensacional.&lt;/p&gt;
+&lt;h2&gt;GNU/Linux 🐂🐧&lt;/h2&gt;
+Uma instalação em Logical Volume Manager (LVM) do &lt;a href=&quot;https://neon.kde.org/&quot;&gt;KDE Neon&lt;/a&gt;, distribuição baseada no Ubuntu LTS mas com atualizada constantemente com as últimas versões do &lt;a href=&quot;https://www.kde.org/plasma-desktop.php&quot;&gt;KDE Plasma 5&lt;/a&gt;.
+&lt;p&gt;Como shell uso o combo ZSH + &lt;a href=&quot;http://ohmyz.sh/&quot;&gt;OhMyZsh!&lt;/a&gt; + plugins. A lista de plugins é enorme, mas esses são os principais:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/zsh-users/zsh-autosuggestions&quot;&gt;zsh-autosuggestions&lt;/a&gt; - autocomplete &lt;i&gt;a la&lt;/i&gt; FiSH, facilita muito a vida&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;docker&lt;/b&gt; e &lt;b&gt;docker-compose&lt;/b&gt; - autocomplete dos comandos sugeridos, incluindo o alias &lt;i&gt;dco&lt;/i&gt; para docker-compose&lt;/li&gt;
+	&lt;li&gt;&lt;b&gt;git&lt;/b&gt; - uma série de aliases e autocomplete para o git. Os que mais uso são o &lt;i&gt;gst&lt;/i&gt; para &lt;i&gt;git status&lt;/i&gt; e &lt;i&gt;gpsup&lt;/i&gt; para &lt;i&gt;git push set upstream&lt;/i&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://github.com/lukechilds/zsh-nvm&quot;&gt;&lt;b&gt;zsh-nvm&lt;/b&gt;&lt;/a&gt; - gerenciador de versões de nodeJS. Esse plugin já instala e adiciona autocomplete para o nvm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Navegador 🌎&lt;/h2&gt;
+Devido à necessidade de estar em múltiplas plataformas ao mesmo tempo, optei pelo &lt;strong&gt;Mozilla Firefox versão estável&lt;/strong&gt; como navegador padrão. Uso a versão &lt;strong&gt;Developer Edition&lt;/strong&gt; no Linux.
+&lt;p&gt;Uso o &lt;strong&gt;Google Chrome&lt;/strong&gt; como principal navegador de debugging, o developer tools dele é incomparável.&lt;/p&gt;
+&lt;h2&gt;Editores 📝&lt;/h2&gt;
+Juntamente com o shell, os editores de texto compõe minha caixa de ferramentas de trabalho.
+&lt;p&gt;Atualmente tenho me dedicado 99% a frontend, e como editor padrão não poderia escolher outro além do &lt;strong&gt;Visual Studio Code&lt;/strong&gt;. Já vem pronto para trabalhar com JavaScript/TypeScript fora da caixa, mas com alguns plugins fica perfeito.&lt;/p&gt;
+&lt;p&gt;Quando pego algum projeto com backend não NodeJS, alterno entre &lt;strong&gt;Atom&lt;/strong&gt; para Php e Ruby e &lt;strong&gt;Visual Studio Community Edition 2017&lt;/strong&gt;, para .NET e cliente SQL Server.&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;Vim&lt;/strong&gt; é meu canivete suíço para a tarefas mais corriqueiras como edição de &lt;em&gt;/etc/hosts&lt;/em&gt; e outros etc.&lt;/p&gt;
+&lt;h1&gt;Hardware 💻&lt;/h1&gt;
+Atualmente estou com um notebook da &lt;em&gt;Acer&lt;/em&gt;, modelo &lt;em&gt;Aspire E15-G&lt;/em&gt;. É um modelo de entrada para intermediário voltado para o mercado brasileiro, com tela ainda HD (1366x768), processador Intel Core i5, 8GB de RAM, placa de vídeo dedicada Nvidia Geforce 920m que quebra um galho para jogos indie 2D e até alguns 3D.
+&lt;p&gt;No armazenamento fiz um upgrade com um SSD no lugar do drive de DVD, então ficou assim:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;1 SSD de 120GB para Windows 10 Pro e aplicativos que uso com frequência;&lt;/li&gt;
+	&lt;li&gt;1 HDD, majoritariamente para armazenamento de arquivos, programas supérfluos e jogos no Windows e uma instalação particionada do KDE Neon para desenvolvimento.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Periféricos ⌨️🖱🎮🎧&lt;/h2&gt;
+São voltado basicamente para criação de conteúdo e consumo.
+&lt;ul&gt;
+	&lt;li&gt;1 Controle com adaptador sem-fio do Xbox 360&lt;/li&gt;
+	&lt;li&gt;1 Tablet Wacom Intuos, excelente custo-benefício&lt;/li&gt;
+	&lt;li&gt;Kit Mouse + Teclado Microsoft 800, mas o mouse apresenta um erro extremamente chato no roda de scroll, então substituí por um Mouse Logitech M35.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Querido diário 📕 de 5 minutos</title>
+		<link href="https://leandrw.com.br/querido-diario-de-5-minutos/"/>
+		<updated>2018-11-19T01:20:28+00:00</updated>
+		<id>https://leandrw.com.br/querido-diario-de-5-minutos/</id>
+		<content type="html">&lt;p&gt;&lt;em&gt;&amp;quot;Querito tiário&amp;quot;&lt;/em&gt;... assim eu costumava zombar dos meus amigos. Toda vez que revelavam manter um diário, eu fazia carão. Não que não visse valor no hábito de manter um registro pessoal, mas me parecia um hábito de adolescentes norte-americanos romantizado nas séries de TV dos anos 80-90, que permearam as programações do SBT.&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;quot;attachment_1064&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1000&amp;quot;]&lt;img class=&quot;alignnone size-full wp-image-1064&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/11/1-HgAo9v2OtMwk764DRTJQhQ.jpeg&quot; alt=&quot;Foto de uma menina adolescente segurando um diário&quot; width=&quot;1000&quot; height=&quot;562&quot;&gt; Provavelmente Tiffany está muito ansiosa para escrever em seu querido diário todas as olhadas que recebeu de seu crush, Brandon, e em como acabará com a invejosa Melanie[/caption]&lt;/p&gt;
+&lt;p&gt;Ledo engano...&lt;/p&gt;
+&lt;blockquote&gt;&quot;A única coisa de que me arrependo sobre fazer diários é de ter esperado tanto tempo para começar.&quot; - Hal Elrod, &lt;em&gt;&lt;a href=&quot;https://amzn.to/2KfKbBV&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;O Milagre da Manhã&lt;/a&gt;
+&lt;/em&gt;&lt;/blockquote&gt;
+Meu preconceito me afastou de um dos hábitos mais construtivos e transformadores que um ser humano pode adotar por um custo praticamente zero. Tudo o que você precisa é de um caderno e uma caneta, ou um aplicativo que permita registrar notas, caso prefira, e alguns poucos minutos do dia.
+&lt;p&gt;Então no fim do ano de 2018, decidi iniciar com mais esse hábito na minha vida. Como já usava o OneNote como ferramenta de notas, decidi aproveitá-lo e criei um novo caderno para usar como diário.&lt;/p&gt;
+&lt;blockquote&gt;Meu preconceito me afastou de um dos hábitos mais construtivos e transformadores que um ser humano pode adotar por um custo praticamente zero.&lt;/blockquote&gt;
+Quase todos os dias registrava o que tinha acontecido durante meu dia, e já nesse primeiro momento percebi uma coisa: sempre que escrevia sobre meu dia, conseguia ver mais claramente o que me deixava feliz e o que acabava com as minhas energias. Rapidamente saquei que escrever sobre o que eu sentia melhorava muito qualquer ansiedade ou angústia que me abatia.
+&lt;p&gt;Mas havia um problema...&lt;/p&gt;
+&lt;h2&gt;Se perdendo durante a escrita&lt;/h2&gt;
+Escrever levava muito de mim. Revisitar o que se sente é maravilhoso, se entende melhor o que se está sentindo, mas também te joga de volta em um mar de emoções, e às vezes é difícil extrair algo rapidamente e sair ileso. Não raro me perdia nos pensamentos. Meu cérebro me pregava armadilhas para não prosseguir com o desconfortável hábito de revisitar as pertubações emocionais.
+&lt;p&gt;Como alternativa, procurei algo que me ajudasse a focar no que deveria ser registrado para maximizar o tempo e as lições que poderia aprender sobre mim. E encontrei...&lt;/p&gt;
+&lt;h2&gt;O Diário de 5 minutos&lt;/h2&gt;
+O Diário de 5 minutos, citado no livro que estava lendo, &lt;a href=&quot;https://amzn.to/2KfKbBV&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;O Milagre da Manhã, de Hal Elrod&lt;/a&gt;, se encaixou perfeitamente no que eu procurava. Consiste em um registro realizado durante 2 períodos do dia: no &lt;strong&gt;início do dia&lt;/strong&gt; e ao &lt;strong&gt;final da noite&lt;/strong&gt;, em que você descreve:
+&lt;p&gt;&lt;strong&gt;Manhã 🌞&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Pelo que você é grato(a)?&lt;/li&gt;
+	&lt;li&gt;O que faria do seu dia um grande dia?&lt;/li&gt;
+	&lt;li&gt;Sua afirmação diária (conceito tirado de &lt;a href=&quot;https://amzn.to/2Q5K3uq&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;O Segredo - Rhonda Byrne&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;strong&gt;Noite 🌜&lt;/strong&gt;
+&lt;ul&gt;
+	&lt;li&gt;3 coisas maravilhosas que aconteceram durante o dia&lt;/li&gt;
+	&lt;li&gt;Como você poderia ter tornado seu dia ainda melhor&lt;/li&gt;
+&lt;/ul&gt;
+Algo mais ou menos assim:
+&lt;p&gt;[caption id=&amp;quot;attachment_1067&amp;quot; align=&amp;quot;alignnone&amp;quot; width=&amp;quot;1039&amp;quot;]&lt;img class=&quot;alignnone size-full wp-image-1067&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/11/5-min-journal.jpg&quot; alt=&quot;Páginas do diário de 5 minutos&quot; width=&quot;1039&quot; height=&quot;853&quot;&gt; &lt;a href=&quot;https://www.intelligentchange.com/products/the-five-minute-journal&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Diário de 5 minutos&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;p style=&quot;text-align: left;&quot;&gt;Em menos de 5 minutos, você exercita sua gratidão, estabelece seus objetivos em ações práticas, aguça a mente para prevenir a autossabotagem, mantém uma perspectiva positiva e construtiva antes de dormir e reavalia no que poderia melhorar.&lt;/p&gt;
+Não tem como se melhor e mais sucinto que isso.
+&lt;p&gt;Para facilitar o trabalho de manter o hábito diariamente com todas essas entradas para escrever, encontrei uma receito do IFTTT para automatizar isso.&lt;/p&gt;
+&lt;h2&gt;Automatizando com IFTTT e OneNote&lt;/h2&gt;
+Pesquisando um pouco sobre, encontrei uma receita no IFTTT que adicionava diariamente uma nota no OneNote já preenchida com um modelo do diário de 5 minutos, em inglês.
+&lt;p&gt;Sendo desenvolvedor web a alguns anos, não foi difícil adaptar o modelo para o português brasileiro (pt-BR), tampouco realizar modificações no limitado HTML suportado pelo OneNote vindo do IFTTT.&lt;/p&gt;
+&lt;p&gt;Você pode usar minha receita no link abaixo:&lt;/p&gt;
+&lt;p&gt;[caption id=&amp;quot;attachment_1065&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;346&amp;quot;]&lt;img class=&quot;alignnone size-full wp-image-1065&quot; src=&quot;https://leandrw.com.br/wp-content/uploads/2018/11/Anota%C3%A7%C3%A3o-2018-11-12-001248.jpg&quot; alt=&quot;Imagem do applet do IFTTT&quot; width=&quot;346&quot; height=&quot;267&quot;&gt; Applet do IFTTT que adiciona uma nota todo dia de manhã com um modelo do diário de 5 minutos.[/caption]&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;https://ifttt.com/applets/88355101d-diario-de-5-minutos&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://ifttt.com/applets/88355101d-diario-de-5-minutos&lt;/a&gt;&lt;/p&gt;
+Se você não conhece o IFTTT, não tem problema, basta escolher o caderno e a seção que usará como diário.
+&lt;p&gt;Todo dia, você encontrará uma nota com um modelo em português do diário de 5 minutos.&lt;/p&gt;
+&lt;h2&gt;Conclusão&lt;/h2&gt;
+No início, nem sempre você acertará. Alguns dias pode ser que se esqueça de estabelecer seus objetivos durante a manhã. Ou quem sabe pule a aprendizagem durante a noite. Não tem problema. Não digo que sairá ileso(a), mas tudo bem. O importante é persistir e se permitir.
+&lt;p&gt;Se permitir lembrar porque acorda todos os dias e porque acordará no dia seguinte. Se permitir desarmar as armadilhas que a educação formal e o senso comum colocaram nas nossas mentes. Se permitir ser grato(a) por quem se tornou e por tudo e todos à sua volta. Se permitir se conhecer melhor e melhorar a sua qualidade de vida e dos outros à sua volta. Se permitir aprender todos os dias com os seus erros e acertos.&lt;/p&gt;
+</content>
+	</entry>
+</feed>
