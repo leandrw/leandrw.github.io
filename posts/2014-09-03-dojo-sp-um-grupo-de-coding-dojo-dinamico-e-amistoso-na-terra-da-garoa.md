@@ -4,7 +4,6 @@ title: 'Dojo SP &#8211; um grupo de Coding Dojo dinâmico e amistoso na terra da
 date: 2014-09-03T00:09:02+00:00
 author: leandrw
 excerpt: Sabe o que é um Coding Dojo? Já participou de algum? Neste post conto como foi minha primeira experiência em um coding dojo realizado na Though Works em São Paulo.
-layout: post
 guid: http://leandrw.com.br/?p=577
 permalink: /dojo-sp-um-grupo-de-coding-dojo-dinamico-e-amistoso-na-terra-da-garoa/
 original_post_id:

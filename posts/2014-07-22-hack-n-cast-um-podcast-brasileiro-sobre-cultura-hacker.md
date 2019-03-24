@@ -3,7 +3,6 @@ id: 593
 title: 'Hack N&#8217; Cast: um podcast brasileiro sobre cultura hacker'
 date: 2014-07-22T20:49:39+00:00
 author: leandrw
-layout: post
 guid: http://leandrw.com.br/?p=538
 permalink: /hack-n-cast-um-podcast-brasileiro-sobre-cultura-hacker/
 original_post_id:

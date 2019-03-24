@@ -3,7 +3,7 @@ id: 746
 title: Quem sou?
 date: 2017-07-20T23:03:57+00:00
 author: leandrw
-layout: page
+layout: layouts/post.njk
 guid: http://leandrw-com-br.umbler.net/?page_id=7
 sharing_disabled:
   - "1"

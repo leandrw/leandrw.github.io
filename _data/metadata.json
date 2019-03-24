@@ -1,0 +1,16 @@
+{
+  "title": "leandrw's blog",
+  "url": "https://leandrw.com.br/",
+  "description": "Desenvolvedor Frontend em São Paulo",
+  "feed": {
+    "subtitle": "Desenvolvedor Frontend em São Paulo",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://leandrw.com.br/feed/feed.xml",
+    "id": "https://leandrw.com.br/"
+  },
+  "author": {
+    "name": "Leandro Cavalcante",
+    "email": "contato@leandrw.com.br"
+  }
+}

@@ -3,7 +3,6 @@ id: 624
 title: A inovação da solidão
 date: 2014-10-26T22:27:45+00:00
 author: leandrw
-layout: post
 guid: http://leandrw.wordpress.com/2014/10/26/a-inovacao-da-solidao/
 permalink: /a-inovacao-da-solidao/
 publicize_twitter_url:

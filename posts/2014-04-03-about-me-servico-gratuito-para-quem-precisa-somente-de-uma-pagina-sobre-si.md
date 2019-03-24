@@ -3,7 +3,6 @@ id: 722
 title: 'about.me &#8211; serviço gratuito para quem precisa somente de uma página sobre si'
 date: 2014-04-03T19:52:47+00:00
 author: leandrw
-layout: post
 guid: http://leandrw.wordpress.com/?p=327
 permalink: /about-me-servico-gratuito-para-quem-precisa-somente-de-uma-pagina-sobre-si/
 original_post_id:

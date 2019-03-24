@@ -3,7 +3,6 @@ id: 646
 title: 'FIAP X &#8211; um podcast sobre tecnologia da FIAP'
 date: 2015-04-21T16:25:43+00:00
 author: leandrw
-layout: post
 guid: http://blog.leandrw.com.br/?p=646
 permalink: /fiap-x-um-podcast-sobre-tecnologia-da-fiap/
 original_post_id:

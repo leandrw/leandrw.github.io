@@ -3,7 +3,6 @@ id: 753
 title: 'Windows command-line tip: Easily Change Window Transparency'
 date: 2017-10-22T00:27:19+00:00
 author: leandrw
-layout: post-en
 guid: https://leandrw.com.br/?p=753
 permalink: /windows-command-line-tip-easily-change-window-transparency/
 medium_post:

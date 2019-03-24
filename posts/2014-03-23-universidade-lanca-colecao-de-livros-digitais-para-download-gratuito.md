@@ -3,7 +3,6 @@ id: 311
 title: Universidade lança coleção de livros digitais para download gratuito
 date: 2014-03-23T01:43:31+00:00
 author: leandrw
-layout: post
 guid: http://leandrw.wordpress.com/?p=311
 permalink: /universidade-lanca-colecao-de-livros-digitais-para-download-gratuito/
 publicize_twitter_user:

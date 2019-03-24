@@ -3,7 +3,6 @@ id: 651
 title: Problemas com o cURL ao atualizar o Opensuse
 date: 2015-01-16T22:57:18+00:00
 author: leandrw
-layout: post
 guid: http://blog.leandrw.com.br/?p=631
 permalink: /problemas-com-o-curl-ao-atualizar-o-opensuse/
 original_post_id:

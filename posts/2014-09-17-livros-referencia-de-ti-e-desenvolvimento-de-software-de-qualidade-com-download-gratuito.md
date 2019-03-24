@@ -3,7 +3,6 @@ id: 615
 title: Livros referência de TI e desenvolvimento de software de qualidade com download gratuito!
 date: 2014-09-17T23:46:32+00:00
 author: leandrw
-layout: post
 guid: http://leandrw.wordpress.com/?p=615
 permalink: /livros-referencia-de-ti-e-desenvolvimento-de-software-de-qualidade-com-download-gratuito/
 publicize_google_plus_url:

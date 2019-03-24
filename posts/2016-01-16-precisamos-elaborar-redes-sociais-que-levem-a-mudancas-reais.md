@@ -4,7 +4,6 @@ title: Precisamos elaborar redes sociais que levem a mudanças reais
 date: 2016-01-16T11:08:45+00:00
 author: leandrw
 excerpt: 'Sobre um cara que vive em um país onde as redes sociais se tornaram tóxicas por conta de discussões razas '
-layout: post
 guid: https://leandrw.wordpress.com/?p=675
 permalink: /precisamos-elaborar-redes-sociais-que-levem-a-mudancas-reais/
 publicize_google_plus_url:

@@ -3,7 +3,6 @@ id: 592
 title: 'Git &#8211; Trabalhando com um repositório remoto e GitHub'
 date: 2014-06-22T02:53:27+00:00
 author: leandrw
-layout: post
 guid: http://blog.leandrw.com.br/?p=480
 permalink: /git-trabalhando-com-um-repositorio-remoto-e-github/
 original_post_id:

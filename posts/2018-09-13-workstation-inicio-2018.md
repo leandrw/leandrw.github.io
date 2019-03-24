@@ -4,7 +4,6 @@ title: Workstation 💻📱📓 (início 2018)
 date: 2018-09-13T03:41:40+00:00
 author: leandrw
 excerpt: Todas as bugigangas e apps que uso diariamente para fazer as coisas acontecerem...
-layout: post
 guid: https://leandrw.com.br/?p=917
 permalink: /workstation-inicio-2018/
 image: /wp-content/uploads/2018/09/pexels-photo-147239-740x430.jpeg
@@ -55,4 +54,3 @@ São voltado basicamente para criação de conteúdo e consumo.
 	<li>1 Tablet Wacom Intuos, excelente custo-benefício</li>
 	<li>Kit Mouse + Teclado Microsoft 800, mas o mouse apresenta um erro extremamente chato no roda de scroll, então substituí por um Mouse Logitech M35.</li>
 </ul>
- 

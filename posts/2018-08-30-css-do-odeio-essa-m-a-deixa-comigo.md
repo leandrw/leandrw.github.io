@@ -3,7 +3,6 @@ id: 902
 title: 'CSS: do ‘Odeio essa m**’ a ‘deixa comigo!’'
 date: 2018-08-30T01:06:35+00:00
 author: leandrw
-layout: post
 guid: https://leandrw.com.br/?p=902
 permalink: /css-do-odeio-essa-m-a-deixa-comigo/
 medium_post:

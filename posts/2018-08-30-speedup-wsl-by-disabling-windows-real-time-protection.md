@@ -3,7 +3,6 @@ id: 886
 title: Speedup WSL by disabling Windows Real-time protection
 date: 2018-08-30T00:01:54+00:00
 author: leandrw
-layout: post-en
 guid: https://leandrw.com.br/?p=886
 permalink: /speedup-wsl-by-disabling-windows-real-time-protection/
 medium_post:

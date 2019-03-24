@@ -1,15 +1,13 @@
 ---
-layout: base
+layout: layouts/home.njk
 tags:
-    - nav
-navtitle: Início
+  - nav
+navtitle: Home
 ---
-<h1>Leandro Cavalcante (@leandrw)</h1>
 
-<p>Olá, sou um desenvolvedor frontend experiente e com vontade de melhorar as coisas.</p>
+<h1>Latest 3 Posts</h1>
 
-<h1>Posts recentes</h1>
 {% set postslist = collections.posts | head(-3) %}
 {% include "postslist.njk" %}
 
-<p><a href="{{ '/posts' | url }}">Veja mais</a></p>
+<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
