@@ -7,7 +7,7 @@ guid: https://leandrw.com.br/?p=902
 permalink: /css-do-odeio-essa-m-a-deixa-comigo/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-image: /wp-content/uploads/2018/08/Inkedamor-odio_LI-702x430.jpg
+image: /img/uploads/2018/08/Inkedamor-odio_LI-702x430.jpg
 categories:
   - Sem categoria
 tags:
@@ -23,7 +23,7 @@ tags:
 <blockquote>- traduzido e adaptado do excelente <a href="https://blog.10pines.com//2017/01/24/css-from-i-hate-it-to-i-actually-like-this-thing/" target="_blank" rel="noopener">post</a> do<a href="https://blog.10pines.com/authors/ignacio-piantanida/" target="_blank" rel="noopener"> Ignacio Piantanida</a> no <a href="https://blog.10pines.com/" target="_blank" rel="noopener">blog do 10pines</a>, de 24 de janeiro de 2017</blockquote>
 Me lembro dos meus primeiros dias como desenvolvedor web, quando peguei uma tarefa que parecia tão simples: <em>“nós precisamos adicionar um pequeno botão vermelho abaixo desse formulário. Ele precisa estar alinhado à direita. Ah! E verticalmente centralizado também”</em>. Eu estava condenado. Algumas horas gastas quebrando o layout, consertando-o e quebrando-o novamente a cada mudança no CSS que eu fazia… todos nós já passamos por isso antes.
 
-[caption id="attachment_903" align="alignnone" width="702"]<img class="wp-image-903 size-full" src="https://leandrw.com.br/wp-content/uploads/2018/08/Inkedamor-odio_LI.jpg" alt="A handwrite phrase saying &quot;I hate/love you CSS&quot;" width="702" height="540" /> CSS &amp; Você: uma relação de amor e ódio[/caption]
+[caption id="attachment_903" align="alignnone" width="702"]<img class="wp-image-903 size-full" src="/img/uploads/2018/08/Inkedamor-odio_LI.jpg" alt="A handwrite phrase saying &quot;I hate/love you CSS&quot;" width="702" height="540" /> CSS &amp; Você: uma relação de amor e ódio[/caption]
 
 Felizmente, depois de ler esse post você aprenderá algumas dicas para ajuda-lo(a) no seu caminho para dominar CSS plenamente.
 

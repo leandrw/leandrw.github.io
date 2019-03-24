@@ -1,6 +1,6 @@
 ---
 id: 588
-title: 'Git &#8211; Sistema Descentralizado de Controle de Versões'
+title: 'Git - Sistema Descentralizado de Controle de Versões'
 date: 2014-06-22T02:09:09+00:00
 author: leandrw
 guid: http://blog.leandrw.com.br/?p=469
@@ -11,7 +11,7 @@ original_post_id:
   - "317"
 dsq_thread_id:
   - "6268910352"
-image: /wp-content/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es-700x430.png
+image: /img/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es-700x430.png
 categories:
   - Sem categoria
 tags:

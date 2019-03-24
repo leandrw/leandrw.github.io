@@ -9,7 +9,7 @@ original_post_id:
   - "631"
 dsq_thread_id:
   - "6034521138"
-image: /wp-content/uploads/2018/09/f-aReEUB_400x400.jpg
+image: /img/uploads/2018/09/f-aReEUB_400x400.jpg
 categories:
   - Sem categoria
 tags:

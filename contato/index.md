@@ -4,6 +4,9 @@ title: Entre em contato
 date: 2017-07-20T23:03:57+00:00
 author: leandrw
 layout: layouts/post.njk
+tags:
+  - nav
+navtitle: Contato
 guid: http://leandrw-com-br.umbler.net/?page_id=9
 ---
 Quer tratar sobre algum assunto específico?

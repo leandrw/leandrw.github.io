@@ -6,9 +6,7 @@ author: leandrw
 excerpt: Como larguei o preconceito e adotei o hábito que me permitiu reduzir a ansiedade, entender o que sinto, quem sou, o que quero e para onde estou indo que é manter um diário de 5 minutos...
 guid: https://leandrw.com.br/?p=1063
 permalink: /querido-diario-de-5-minutos/
-image: /wp-content/uploads/2018/11/1-HgAo9v2OtMwk764DRTJQhQ.jpeg
-categories:
-  - 'Produtividade & Desenvolvimento Pessoal'
+image: /img/uploads/2018/11/1-HgAo9v2OtMwk764DRTJQhQ.jpeg
 tags:
   - autoconhecimento
   - desenvolvimento pessoal
@@ -17,7 +15,7 @@ tags:
 ---
 <em>"Querito tiário"</em>... assim eu costumava zombar dos meus amigos. Toda vez que revelavam manter um diário, eu fazia carão. Não que não visse valor no hábito de manter um registro pessoal, mas me parecia um hábito de adolescentes norte-americanos romantizado nas séries de TV dos anos 80-90, que permearam as programações do SBT.
 
-[caption id="attachment_1064" align="alignnone" width="1000"]<img class="alignnone size-full wp-image-1064" src="https://leandrw.com.br/wp-content/uploads/2018/11/1-HgAo9v2OtMwk764DRTJQhQ.jpeg" alt="Foto de uma menina adolescente segurando um diário" width="1000" height="562" /> Provavelmente Tiffany está muito ansiosa para escrever em seu querido diário todas as olhadas que recebeu de seu crush, Brandon, e em como acabará com a invejosa Melanie[/caption]
+[caption id="attachment_1064" align="alignnone" width="1000"]<img class="alignnone size-full wp-image-1064" src="/img/uploads/2018/11/1-HgAo9v2OtMwk764DRTJQhQ.jpeg" alt="Foto de uma menina adolescente segurando um diário" width="1000" height="562" /> Provavelmente Tiffany está muito ansiosa para escrever em seu querido diário todas as olhadas que recebeu de seu crush, Brandon, e em como acabará com a invejosa Melanie[/caption]
 
 Ledo engano...
 <blockquote>"A única coisa de que me arrependo sobre fazer diários é de ter esperado tanto tempo para começar." - Hal Elrod, <em><a href="https://amzn.to/2KfKbBV" target="_blank" rel="noopener">O Milagre da Manhã</a>
@@ -49,7 +47,7 @@ O Diário de 5 minutos, citado no livro que estava lendo, <a href="https://amzn.
 </ul>
 Algo mais ou menos assim:
 
-[caption id="attachment_1067" align="alignnone" width="1039"]<img class="alignnone size-full wp-image-1067" src="https://leandrw.com.br/wp-content/uploads/2018/11/5-min-journal.jpg" alt="Páginas do diário de 5 minutos" width="1039" height="853" /> <a href="https://www.intelligentchange.com/products/the-five-minute-journal" target="_blank" rel="noopener">Diário de 5 minutos</a>[/caption]
+[caption id="attachment_1067" align="alignnone" width="1039"]<img class="alignnone size-full wp-image-1067" src="/img/uploads/2018/11/5-min-journal.jpg" alt="Páginas do diário de 5 minutos" width="1039" height="853" /> <a href="https://www.intelligentchange.com/products/the-five-minute-journal" target="_blank" rel="noopener">Diário de 5 minutos</a>[/caption]
 <p style="text-align: left;">Em menos de 5 minutos, você exercita sua gratidão, estabelece seus objetivos em ações práticas, aguça a mente para prevenir a autossabotagem, mantém uma perspectiva positiva e construtiva antes de dormir e reavalia no que poderia melhorar.</p>
 Não tem como se melhor e mais sucinto que isso.
 
@@ -61,7 +59,7 @@ Sendo desenvolvedor web a alguns anos, não foi difícil adaptar o modelo para o
 
 Você pode usar minha receita no link abaixo:
 
-[caption id="attachment_1065" align="aligncenter" width="346"]<img class="alignnone size-full wp-image-1065" src="https://leandrw.com.br/wp-content/uploads/2018/11/Anotação-2018-11-12-001248.jpg" alt="Imagem do applet do IFTTT" width="346" height="267" /> Applet do IFTTT que adiciona uma nota todo dia de manhã com um modelo do diário de 5 minutos.[/caption]
+[caption id="attachment_1065" align="aligncenter" width="346"]<img class="alignnone size-full wp-image-1065" src="/img/uploads/2018/11/Anotação-2018-11-12-001248.jpg" alt="Imagem do applet do IFTTT" width="346" height="267" /> Applet do IFTTT que adiciona uma nota todo dia de manhã com um modelo do diário de 5 minutos.[/caption]
 <p style="text-align: center;"><a href="https://ifttt.com/applets/88355101d-diario-de-5-minutos" target="_blank" rel="noopener">https://ifttt.com/applets/88355101d-diario-de-5-minutos</a></p>
 Se você não conhece o IFTTT, não tem problema, basta escolher o caderno e a seção que usará como diário.
 

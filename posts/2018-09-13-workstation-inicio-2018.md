@@ -6,7 +6,7 @@ author: leandrw
 excerpt: Todas as bugigangas e apps que uso diariamente para fazer as coisas acontecerem...
 guid: https://leandrw.com.br/?p=917
 permalink: /workstation-inicio-2018/
-image: /wp-content/uploads/2018/09/pexels-photo-147239-740x430.jpeg
+image: /img/uploads/2018/09/pexels-photo-147239-740x430.jpeg
 categories:
   - Sem categoria
 tags:

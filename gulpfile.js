@@ -1,13 +1,13 @@
-const { task, series, parallel, src, dest } = require('gulp');
+const { task, watch, parallel, series } = require('gulp');
+const requireDir = require('require-dir');
 
-task('clean');
+requireDir('./gulp-tasks');
 
-task('styles');
+task('compile', parallel('images', 'styles'));
 
-task('scripts');
+task('watch', series('clean', 'compile', parallel('eleventy:watch', () => {
+  watch('./css/**/*.css', series('clean:styles', 'styles'));
+  watch('./img/*', series('clean:images', 'images'));
+})));
 
-task('images');
-
-task('devServer');
-
-task('build', series('clean', series('styles', 'scripts', 'images')));
+task('build', series('clean', 'compile', 'eleventy'));

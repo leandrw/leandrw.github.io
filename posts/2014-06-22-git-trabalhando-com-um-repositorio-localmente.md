@@ -1,6 +1,6 @@
 ---
 id: 589
-title: 'Git &#8211; Trabalhando com um repositório localmente'
+title: 'Git - Trabalhando com um repositório localmente'
 date: 2014-06-22T02:50:23+00:00
 author: leandrw
 guid: http://blog.leandrw.com.br/?p=477
@@ -11,7 +11,7 @@ original_post_id:
   - "317"
 dsq_thread_id:
   - "6034522800"
-image: /wp-content/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente-700x430.png
+image: /img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente-700x430.png
 categories:
   - Sem categoria
 tags:

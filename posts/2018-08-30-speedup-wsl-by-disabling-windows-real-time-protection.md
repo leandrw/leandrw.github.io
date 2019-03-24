@@ -7,7 +7,7 @@ guid: https://leandrw.com.br/?p=886
 permalink: /speedup-wsl-by-disabling-windows-real-time-protection/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-image: /wp-content/uploads/2018/08/1-Cb8wWHPg6h_bgN8P7cnULg-618x430.jpeg
+image: /img/uploads/2018/08/1-Cb8wWHPg6h_bgN8P7cnULg-618x430.jpeg
 categories:
   - Sem categoria
 tags:
@@ -26,7 +26,7 @@ While being helpful detecting some common Windows malwares, in GNU/Linux side it
 
 Every time you try to access/read/write some file/folder, Windows Defender intercept WSL requisition for antivirus scanning, slowing down things until you hate everything in WSL!
 
-[caption id="attachment_887" align="alignnone" width="960"]<img class="wp-image-887 size-full" src="https://leandrw.com.br/wp-content/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA.png" alt="Screenshot of Windows Subsystem for Linux executing apt-get update downloading slow at 46.6 kB/s" width="960" height="480" /> Ubuntu running inside WSL trying to update some packages behind Windows Real-time protection bad guy[/caption]
+[caption id="attachment_887" align="alignnone" width="960"]<img class="wp-image-887 size-full" src="/img/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA.png" alt="Screenshot of Windows Subsystem for Linux executing apt-get update downloading slow at 46.6 kB/s" width="960" height="480" /> Ubuntu running inside WSL trying to update some packages behind Windows Real-time protection bad guy[/caption]
 
 <em><strong>Warning</strong>: disabling Real-time Security may have some direct impact in yours personal security</em>. Know what you are doing.
 
@@ -38,7 +38,7 @@ Copy the entire path from <em>Explorer.exe</em> address bar, then go to:
 
 Settings &gt; Update &amp; Security &gt; Windows Defender &gt; Open Windows Defender Secutiry Central &gt; Protection Against Viruses &amp; Threats &gt; Advanced Config… &gt; Exclusions &gt; Add or Remove &gt; Add &gt; Folder and finally: paste the previous copied path.
 <h1>High security sometimes means Low performance</h1>
-[caption id="attachment_888" align="alignnone" width="618"]<img class="wp-image-888 size-full" src="https://leandrw.com.br/wp-content/uploads/2018/08/1-Cb8wWHPg6h_bgN8P7cnULg.jpeg" alt="Screenshot of Windows Defender Security Center showing Real-time protection as disabled" width="618" height="594" /> Windows Defender Real-time slow down… protection[/caption]
+[caption id="attachment_888" align="alignnone" width="618"]<img class="wp-image-888 size-full" src="/img/uploads/2018/08/1-Cb8wWHPg6h_bgN8P7cnULg.jpeg" alt="Screenshot of Windows Defender Security Center showing Real-time protection as disabled" width="618" height="594" /> Windows Defender Real-time slow down… protection[/caption]
 
 Adding WSL to exclusion list may speedup things a little bit, but not so. There is one more thing bringing your performance down: Window Defender real-time protection.
 
@@ -48,7 +48,7 @@ We will disable it, but be aware: you will may be more vulnerable for some commo
 
 So, let’s disable:
 <h2>Using Group Policy (gpedit.exe) to disable real-time protection:</h2>
-[caption id="attachment_889" align="alignnone" width="800"]<img class="wp-image-889 size-full" src="https://leandrw.com.br/wp-content/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg.png" alt="Screenshot of Group Policy Editor (a.k.a. gpedit.msc)" width="800" height="426" /> Using Group Policy (gpedit.msc) to disable real-time protection[/caption]
+[caption id="attachment_889" align="alignnone" width="800"]<img class="wp-image-889 size-full" src="/img/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg.png" alt="Screenshot of Group Policy Editor (a.k.a. gpedit.msc)" width="800" height="426" /> Using Group Policy (gpedit.msc) to disable real-time protection[/caption]
 <ol>
  	<li>On your Group Policy management machine, open the Group Policy Management Console, right-click the Group Policy Object you want to configure and click Edit.</li>
  	<li>In the Group Policy Management Editor go to Computer configuration.</li>
