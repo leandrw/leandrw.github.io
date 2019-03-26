@@ -61,15 +61,15 @@ Você pode usar minha receita no link abaixo:
 
 <figure>
   <img class="alignnone" src="/img/uploads/2018/11/Anotação-2018-11-12-001248.jpg" alt="Imagem do applet do IFTTT" width="346" height="267" />
-  <figcaption>Imagem do applet do IFTTT</figcaption>
+  <figcaption>Applet do IFTTT que adiciona uma nota todo dia de manhã com um modelo do diário de 5 minutos</figcaption>
 </figure>
 
-Applet do IFTTT que adiciona uma nota todo dia de manhã com um modelo do diário de 5 minutos.[/caption]
 <p style="text-align: center;"><a href="https://ifttt.com/applets/88355101d-diario-de-5-minutos" target="_blank" rel="noopener">https://ifttt.com/applets/88355101d-diario-de-5-minutos</a></p>
 Se você não conhece o IFTTT, não tem problema, basta escolher o caderno e a seção que usará como diário.
 
 Todo dia, você encontrará uma nota com um modelo em português do diário de 5 minutos.
 <h2>Conclusão</h2>
+
 No início, nem sempre você acertará. Alguns dias pode ser que se esqueça de estabelecer seus objetivos durante a manhã. Ou quem sabe pule a aprendizagem durante a noite. Não tem problema. Não digo que sairá ileso(a), mas tudo bem. O importante é persistir e se permitir.
 
 Se permitir lembrar porque acorda todos os dias e porque acordará no dia seguinte. Se permitir desarmar as armadilhas que a educação formal e o senso comum colocaram nas nossas mentes. Se permitir ser grato(a) por quem se tornou e por tudo e todos à sua volta. Se permitir se conhecer melhor e melhorar a sua qualidade de vida e dos outros à sua volta. Se permitir aprender todos os dias com os seus erros e acertos.

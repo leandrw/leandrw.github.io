@@ -1,69 +1,106 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
+  setupRSS();
+  setupSyntaxHighlight();
+  setupPWA();
+
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  setupLayouts();
+  setupFilters();
 
-  eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
-  });
+  setupPassThrough();
+  setupMarkdown();
+  setupBrowserSync();
+  setupCollections();
 
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
-  });
+  function setupRSS() {
+    const pluginRss = require("@11ty/eleventy-plugin-rss");
+    eleventyConfig.addPlugin(pluginRss);
+  }
 
-  // Get the first `n` elements of a collection.
-  eleventyConfig.addFilter("head", (array, n) => {
-    if( n < 0 ) {
-      return array.slice(n);
-    }
+  function setupSyntaxHighlight() {
+    const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+    eleventyConfig.addPlugin(pluginSyntaxHighlight);
+  }
 
-    return array.slice(0, n);
-  });
+  function setupPWA() {
+    const pluginPWA = require("eleventy-plugin-pwa");
+    eleventyConfig.addPlugin(pluginPWA);
+  }
 
-  eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
+ function setupLayouts() {
+    eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  }
 
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
+  function setupCollections() {
+    eleventyConfig.addCollection("tagList", require("./_11ty/getTagList"));
+  }
 
-  /* Markdown Plugins */
-  let markdownIt = require("markdown-it");
-  let markdownItAnchor = require("markdown-it-anchor");
-  let options = {
-    html: true,
-    breaks: true,
-    linkify: true
-  };
-  let opts = {
-    permalink: true,
-    permalinkClass: "direct-link",
-    permalinkSymbol: "#"
-  };
+  function setupFilters() {
+    eleventyConfig.addFilter("readableDate", dateObj => {
+      return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+    });
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
-  );
+    // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+    eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+      return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+    });
 
-  eleventyConfig.setBrowserSyncConfig({
-    callbacks: {
-      ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
-
-        browserSync.addMiddleware("*", (req, res) => {
-          // Provides the 404 content without redirect.
-          res.write(content_404);
-          res.end();
-        });
+    // Get the first `n` elements of a collection.
+    eleventyConfig.addFilter("head", (array, n) => {
+      if( n < 0 ) {
+        return array.slice(n);
       }
-    }
-  });
+
+      return array.slice(0, n);
+    });
+  }
+
+  function setupPassThrough() {
+    eleventyConfig.addPassthroughCopy("img");
+    eleventyConfig.addPassthroughCopy("docs");
+    eleventyConfig.addPassthroughCopy("css");
+    eleventyConfig.addPassthroughCopy("manifest.json");
+  }
+
+  function setupMarkdown() {
+    let markdownIt = require("markdown-it");
+    let markdownItAnchor = require("markdown-it-anchor");
+    let options = {
+      html: true,
+      breaks: true,
+      linkify: true
+    };
+    let opts = {
+      permalink: true,
+      permalinkClass: "direct-link",
+      permalinkSymbol: "#"
+    };
+
+    eleventyConfig.setLibrary("md", markdownIt(options)
+      .use(markdownItAnchor, opts)
+    );
+  }
+
+
+  function setupBrowserSync() {
+    eleventyConfig.setBrowserSyncConfig({
+      callbacks: {
+        ready: function(err, browserSync) {
+          const content_404 = fs.readFileSync('_site/404.html');
+
+          browserSync.addMiddleware("*", (req, res) => {
+            // Provides the 404 content without redirect.
+            res.write(content_404);
+            res.end();
+          });
+        }
+      }
+    });
+  }
 
   return {
     templateFormats: [

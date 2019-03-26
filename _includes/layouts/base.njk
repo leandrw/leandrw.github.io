@@ -21,8 +21,8 @@
     <meta property="og:description" content="{{ renderData.description or description or metadata.description }}" />
     <meta property="og:url" content="{{ metadata.url }}" />
     <meta property="og:site_name" content="{{ metadata.title }}" />
-    <meta property="og:image" content="{{ renderData.image or metadata.image | url }}?fit=1546%2C928&#038;ssl=1" />
-    <meta property="og:image:secure_url" content="{{ (renderData.image or metadata.image) | url }}?fit=1546%2C928&#038;ssl=1" />
+    <meta property="og:image" content="{{ renderData.image or metadata.image | url }}" />
+    <meta property="og:image:secure_url" content="{{ (renderData.image or metadata.image) | url }}" />
     <meta property="og:image:width" content="1546" />
     <meta property="og:image:height" content="928" />
     <meta property="og:image:alt" content="leandrw (Leandro Cavalcante) - Desenvolvedor web em São Paulo - SP, Brasil." />
@@ -35,16 +35,22 @@
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="stylesheet" href="{{ '/css/prism-darcula.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link rel="icon" href="{{ metadata.icon | url}}?fit=32%2C32&#038;ssl=1" sizes="32x32" />
-    <link rel="icon" href="{{ metadata.icon | url }}?fit=192%2C192&#038;ssl=1" sizes="192x192" />
-    <link rel="apple-touch-icon-precomposed" href="{{ metadata.icon | url }}?fit=180%2C180&#038;ssl=1" />
-    <meta name="msapplication-TileImage" content="{{ metadata.icon | url }}?fit=270%2C270&#038;ssl=1" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="icon" href="{{ metadata.icon | url}}" sizes="32x32" />
+    <link rel="icon" href="{{ metadata.icon | url }}" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="{{ metadata.icon | url }}" />
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileImage" content="{{ metadata.icon | url }}" />
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/service-worker.js");
+      }
+    </script>
   </head>
   <body>
     <header>
       <h1 class="home">
         <a href="{{ '/' | url }}">
-
           <span>{{ metadata.title }}</span>
         </a>
       </h1>
@@ -52,6 +58,7 @@
         {%- for nav in collections.nav | reverse -%}
         <li class="nav-item{% if nav.url == page.url %} nav-item-active{% endif %}"><a href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a></li>
         {%- endfor -%}
+        <li class="nav-item"><a href="{{ '/docs/cv.pdf' | url }}" download="Leandro Cavalcante - Frontend Developer">Currículo</a></li>
       </ul>
     </header>
 

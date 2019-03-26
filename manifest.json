@@ -1,0 +1,17 @@
+{
+  "short_name": "leandrw's blog",
+  "name": "leandrw's blog - Desenvolvedor Frontend",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "lang": "pt",
+  "display": "minimal-ui",
+  "description": "Desenvolvedor Frontend em São Paulo",
+  "icons": [
+    {
+      "src": "/img/192x192.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
