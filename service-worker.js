@@ -50,8 +50,44 @@ self.__precacheManifest = [
     "revision": "052037a24c7b4e37d52cdbce7375aaf8"
   },
   {
+    "url": "css/_variables.css",
+    "revision": "3b23a638c8d507d0431c82d40f794676"
+  },
+  {
+    "url": "css/components/_base.css",
+    "revision": "e8170c6029b5a8b6e68a36686843e7f1"
+  },
+  {
+    "url": "css/components/_code-highlight.css",
+    "revision": "3c201a8f3be2192070704280b413f620"
+  },
+  {
+    "url": "css/components/_header.css",
+    "revision": "2b6f001e8e226b7ce643fe03a9af2584"
+  },
+  {
+    "url": "css/components/_images.css",
+    "revision": "a61b90e3dda4f2b26fbc3ceb006800c0"
+  },
+  {
+    "url": "css/components/_links.css",
+    "revision": "20e6a2bc1be67a7d4ad053356b818556"
+  },
+  {
+    "url": "css/components/_nav.css",
+    "revision": "f647932f64d7f3c7942a93dbc5106ce8"
+  },
+  {
+    "url": "css/components/_posts-list.css",
+    "revision": "29ac38ba52df06e9a030e4b5b5c34c81"
+  },
+  {
+    "url": "css/components/_tags.css",
+    "revision": "f638d0e6fef9eae740093d700d57d454"
+  },
+  {
     "url": "css/index.css",
-    "revision": "1bc8668e15238f5c96532ebc43a42c4c"
+    "revision": "ac369db92a26ef47f7dc044a65e702f0"
   },
   {
     "url": "css/prism-darcula.css",
