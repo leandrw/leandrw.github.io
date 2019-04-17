@@ -4,10 +4,13 @@ tags:
   - nav
 navtitle: Início
 ---
+# Olá
 
-<h1>Últimos 5 Posts</h1>
+Meu nome é Leandro Cavalcante, sou um desenvolvedor frontend web em São Paulo.
+
+# Últimos 5 Posts
 
 {% set postslist = collections.posts | head(-5) %}
 {% include "postslist.njk" %}
 
-<p>Mais posts em <a href="{{ '/posts/' | url }}">arquivo</a>.</p>
+<p>Todos os posts em <a href="{{ '/posts/' | url }}">blog</a>.</p>
