@@ -6,21 +6,25 @@ body {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
+  color: #333;
   color: var(--darkgray);
+  background-color: #fff;
   background-color: var(--white);
+  font-size: 18px;
   font-size: var(--font-base-size);
 }
 p:last-child {
   margin-bottom: 0;
 }
-
 p,
 .tmpl-post li {
   line-height: 1.45;
 }
 a[href] {
+  color: #082840;
   color: var(--blue);
 }
 a[href]:visited {
+  color: #17050F;
   color: var(--navy);
 }

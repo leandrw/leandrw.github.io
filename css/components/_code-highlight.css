@@ -15,7 +15,6 @@ pre {
   -o-tab-size: 2;
   tab-size: 2;
   -webkit-hyphens: none;
-  -moz-hyphens: none;
   -ms-hyphens: none;
   hyphens: none;
   padding: 1em;
@@ -28,7 +27,6 @@ pre {
   text-decoration: none; /* override del, ins, mark defaults */
   color: inherit; /* override del, ins, mark defaults */
 }
-
 /* allow highlighting empty lines */
 .highlight-line:empty:before {
   content: " ";
@@ -37,7 +35,6 @@ pre {
 .highlight-line + br {
   display: none;
 }
-
 .highlight-line-isdir {
   color: #b0b0b0;
   background-color: #222;

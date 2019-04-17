@@ -15,6 +15,7 @@
 .postlist-date,
 .postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
+  color: #333;
   color: var(--darkgray);
 }
 .postlist-date {

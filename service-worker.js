@@ -59,11 +59,11 @@ self.__precacheManifest = [
   },
   {
     "url": "css/components/_base.css",
-    "revision": "e8170c6029b5a8b6e68a36686843e7f1"
+    "revision": "af3bf8876e6fe0665602690f26bfc4d9"
   },
   {
     "url": "css/components/_code-highlight.css",
-    "revision": "3c201a8f3be2192070704280b413f620"
+    "revision": "c97ce8e617ce99fa77c4ab9f1196249c"
   },
   {
     "url": "css/components/_header.css",
@@ -83,19 +83,19 @@ self.__precacheManifest = [
   },
   {
     "url": "css/components/_posts-list.css",
-    "revision": "29ac38ba52df06e9a030e4b5b5c34c81"
+    "revision": "1ff1c56cd33fcba7406b9ba9b569801d"
   },
   {
     "url": "css/components/_tags.css",
-    "revision": "f638d0e6fef9eae740093d700d57d454"
+    "revision": "982f12e9dcbe355dc9ca2271e6e2f6d6"
   },
   {
     "url": "css/index.css",
-    "revision": "ac369db92a26ef47f7dc044a65e702f0"
+    "revision": "4a5a41bd340b72858ccb8946672bc63f"
   },
   {
     "url": "css/prism-darcula.css",
-    "revision": "cc466f151a88aa2492a8fa401be801a0"
+    "revision": "883cb82de4a824f211c0f02b77cbf8dc"
   },
   {
     "url": "dojo-sp-um-grupo-de-coding-dojo-dinamico-e-amistoso-na-terra-da-garoa/index.html",
@@ -123,27 +123,27 @@ self.__precacheManifest = [
   },
   {
     "url": "img/192x192.jpg",
-    "revision": "6feaf1378b5a0b13b6c73c38da7645b1"
+    "revision": "eae25889d8705ed3399a9137c2aa6182"
   },
   {
     "url": "img/32x32.jpg",
-    "revision": "0bd8e7048c186e160048bd6eed3e7faa"
+    "revision": "935732948c3d2915930f08e63efb7b42"
   },
   {
     "url": "img/apple-touch.jpg",
-    "revision": "2b8238f0166c1f18f724001c5db94151"
+    "revision": "62636c0fbdb6aecb90445037d44675eb"
   },
   {
     "url": "img/m-tile.jpg",
-    "revision": "b4174ec93f655bac142aa2a2f5021e1f"
+    "revision": "bd36b4eceb4e15a9d13c38ffaa5c95d2"
   },
   {
     "url": "img/uploads/2017/10/1-VC-J-0V3pZj6m2L4HwyvMQ-150x150.gif",
-    "revision": "1e6c6847f2bd941615f2e8195634bfbb"
+    "revision": "70bdfcaeb98f51b43138f3e84577aacf"
   },
   {
     "url": "img/uploads/2017/10/1-VC-J-0V3pZj6m2L4HwyvMQ-300x179.gif",
-    "revision": "550588be70796447c243a0cb7ca086aa"
+    "revision": "676cb82f5c7855d4b1de73421b86b5ad"
   },
   {
     "url": "img/uploads/2018/04/19983610_1944690089107544_5110083536341221085_o-min-100x100.jpg",
@@ -167,7 +167,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/uploads/2018/04/19983610_1944690089107544_5110083536341221085_o-min.jpg",
-    "revision": "cf590db78ac2bcf921302a8ca75733b7"
+    "revision": "e2aeeaef43ac4c0dbaf6a26bab2d9cf7"
   },
   {
     "url": "img/uploads/2018/04/creativosbr-baiana-em-são-paulo-opinião-min-150x150.jpg",
@@ -191,7 +191,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/uploads/2018/04/creativosbr-baiana-em-são-paulo-opinião-min.jpg",
-    "revision": "52c0cc3bf293e3e5abc9daa6e31639ee"
+    "revision": "95da2f4be8212c1cfb2c5290d85bf46f"
   },
   {
     "url": "img/uploads/2018/04/cropped-19983610_1944690089107544_5110083536341221085_o-min-1-1024x427.jpg",
@@ -255,139 +255,139 @@ self.__precacheManifest = [
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-100x100.jpg",
-    "revision": "a2e9074cbfa07900a7013ba380f3af26"
+    "revision": "ad74135e2e4243acb7117d080d14517e"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-150x150.jpg",
-    "revision": "0d135fdcc8cfccf260af1cb9efd22c06"
+    "revision": "b8e8d43c8cd398c55989a219301bf047"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-180x180.jpg",
-    "revision": "4ba4d28ed896eb1444b2f27543a6296b"
+    "revision": "c8c2162ea2bb593e62d7f4ffcf8d9d16"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-192x192.jpg",
-    "revision": "72d207e99ea76eb8d32eab8feafb893d"
+    "revision": "044171c16c940bbdb7c1836bc3b14ebc"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-270x270.jpg",
-    "revision": "27491d9881e92821ccadc59ede6468d7"
+    "revision": "68b5ae9403fa8195cced8d1855dcc85a"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-300x300.jpg",
-    "revision": "042310b2d8dda074a60b933accfea329"
+    "revision": "39d3d9d2b93c9d0145b04f5ac27ea82e"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1-32x32.jpg",
-    "revision": "87a15c9b3ff7aae7fa19b2dd67ec8411"
+    "revision": "e210b8a5e6899de5c73ab014f360a16a"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-1.jpg",
-    "revision": "1e8ee4843ba281f349b3f7db64867fd5"
+    "revision": "a23206135342f7fed14d2ad13f5a7572"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-100x100.jpg",
-    "revision": "4a49f51bc3befed2fac6a4c67ff04d4b"
+    "revision": "a89fe8c9ea7965bc658e2857024fee6b"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-150x150.jpg",
-    "revision": "19091610cb663d19e38cedd8c5822c90"
+    "revision": "dfbb4f6063b8fa2a9eba3bc8d2a17bed"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-2-100x100.jpg",
-    "revision": "079398fbdf64946449f6fc040e237e39"
+    "revision": "c314be68e9df4cc34d0ae668d1af64eb"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-2-150x150.jpg",
-    "revision": "561db67add84da6ca9ef1e3e58088a65"
+    "revision": "76d2d97c7e6808ebd92e7dd3735d346f"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-2.jpg",
-    "revision": "29ef714f200814c26e21cee875b9cdb5"
+    "revision": "7315e96d669a8c0271e3bf64572780c8"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-1024x205.jpg",
-    "revision": "1bf1e7e104e4d052597418efa658a655"
+    "revision": "e6b5d4a465d2854b45129f49b1b38699"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-1100x220.jpg",
-    "revision": "89711f16f42622434a52e5e6e9496104"
+    "revision": "50bc9541a78caeea02ea20271fcfcb9a"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-1440x300.jpg",
-    "revision": "3935f6601417806a5148384ba80cfed6"
+    "revision": "407bcb60a16c2d434bf1c2f1b5b3b608"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-150x150.jpg",
-    "revision": "4372d27618e75789bf9ba4321ffbbf01"
+    "revision": "381b6ef9c466f413320975934ed2918c"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-300x60.jpg",
-    "revision": "6ed336150ab928ca4afb581b7fc90697"
+    "revision": "92b47cbe2eb2420fd469c9e17cc033bb"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-740x300.jpg",
-    "revision": "3d53885499ad62ce48f241ac5df44483"
+    "revision": "8b9de2b580665df5162b096f5b0c8f68"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3-768x154.jpg",
-    "revision": "2178fea709b5bca5ef283879e549d6ad"
+    "revision": "598f27ab0e8f4757c652d80d04a5233c"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-3.jpg",
-    "revision": "3a4f1652713e42e481200ab6046b5e8a"
+    "revision": "698f752baec7c0d7b44008a8824fb167"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-4-150x150.jpg",
-    "revision": "fca40f2217ee23a15250fcd34145d761"
+    "revision": "ec2e69c44e77bcda3ef1e71af79847f4"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2-4.jpg",
-    "revision": "83db5a95ada4c2be9b297f24e4c9fde1"
+    "revision": "14023e29af386ef5ff01c3eea176370a"
   },
   {
     "url": "img/uploads/2018/04/cropped-Fresh-Paint-2015.04.08-01.03.42-2.jpg",
-    "revision": "740be3e05434fb930e9d06cc90fdd5f5"
+    "revision": "677eb2129abdabbf4aca9a2d98c8c2a0"
   },
   {
     "url": "img/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2-100x100.jpg",
-    "revision": "e170899556456ad6d3a88d454808154f"
+    "revision": "fc7ef903579ece12ddbc2426aa6b62c3"
   },
   {
     "url": "img/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2-150x150.jpg",
-    "revision": "85ed2e70318bf77693c1010a5bd7aa12"
+    "revision": "f20649e1eaef9c99d792648dc1f92302"
   },
   {
     "url": "img/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2-300x300.jpg",
-    "revision": "7c46453bba3b94eb9ebc04a7ff6a359f"
+    "revision": "5b93b5b09ede4450d199bcedde49e43d"
   },
   {
     "url": "img/uploads/2018/04/Fresh-Paint-2015.04.08-01.03.42-2.jpg",
-    "revision": "c28e2da360a2123002bdc42c4d3a57cd"
+    "revision": "3c6f72ff200728446c55502fbcd84b29"
   },
   {
     "url": "img/uploads/2018/05/Desenho-sem-título-150x150.png",
-    "revision": "e76ded477feadb80ce2fee029db24606"
+    "revision": "0b308e903f635c1baa8a78cf4bcb155c"
   },
   {
     "url": "img/uploads/2018/05/Desenho-sem-título-300x150.png",
-    "revision": "5db96fa43e8b3b0b3daead78eb56e500"
+    "revision": "2c6e70e074e3eeb83f3f876ccc31546e"
   },
   {
     "url": "img/uploads/2018/05/Desenho-sem-título-50x50.png",
-    "revision": "eb59bcc88ee6403822d7862da733f796"
+    "revision": "5bac0ca815f05a17aa1263314961d4a7"
   },
   {
     "url": "img/uploads/2018/05/Desenho-sem-título-740x430.png",
-    "revision": "bad61b1bbdd07b927e19acd3442c734a"
+    "revision": "441867aeb77b957e4b7a8e79945f9ffe"
   },
   {
     "url": "img/uploads/2018/05/Desenho-sem-título-768x384.png",
-    "revision": "0a4bfdf9e55118f79876f70909482638"
+    "revision": "06bcdd26620b50acc895bbc576bb49cd"
   },
   {
     "url": "img/uploads/2018/05/Desenho-sem-título.png",
-    "revision": "5431590ad47fcda846607af56202995f"
+    "revision": "63e047bca4fbd29656cb195afa74cec8"
   },
   {
     "url": "img/uploads/2018/05/vejito20894129-1100x1432.jpg",
@@ -423,179 +423,179 @@ self.__precacheManifest = [
   },
   {
     "url": "img/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA-150x150.png",
-    "revision": "f784b9c18ff32f7187c4948fde5a39a5"
+    "revision": "7c4f48310556c09341bfb6e5c084ae0d"
   },
   {
     "url": "img/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA-300x150.png",
-    "revision": "be5362dd733903b60f256b33c36fff01"
+    "revision": "e34643e93207e714e1c3aeca325471fb"
   },
   {
     "url": "img/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA-740x430.png",
-    "revision": "6179024c8e475d8f00d40c96d9336eda"
+    "revision": "a45dc164de0d9f9e7df20886d374d4c6"
   },
   {
     "url": "img/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA-768x384.png",
-    "revision": "03add7cf02cbeb563b639033a897612a"
+    "revision": "f226c9ccb36746a1430415fb2528d293"
   },
   {
     "url": "img/uploads/2018/08/1-6FyyUhdUkfW77MDfC1BgUA.png",
-    "revision": "7de272fd89dd13c37d768152cac81329"
+    "revision": "cccf49732af0b8f9cc04e284f1ab3107"
   },
   {
     "url": "img/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg-150x150.png",
-    "revision": "24c6faa014686ca539fad9e856673057"
+    "revision": "2c0d58839393f30a696a9a0508891376"
   },
   {
     "url": "img/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg-300x160.png",
-    "revision": "56d71c64b936ecbd3991a7393aa75be5"
+    "revision": "23a2fd373ee4057e778bd4d8797a9a6d"
   },
   {
     "url": "img/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg-740x426.png",
-    "revision": "1bc7cee5ea2f0aee6eca087c7412bc66"
+    "revision": "1bb740cdd2bd5f53b36e8a02bfc82a96"
   },
   {
     "url": "img/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg-768x409.png",
-    "revision": "d61c9c288b15942089ba1480a6660322"
+    "revision": "a3e4aeede400e656555fc0d3c6491310"
   },
   {
     "url": "img/uploads/2018/08/1-a-U4iD2KwHC3VXFuNDhTxg.png",
-    "revision": "cd6e3998e77714458e7c12fdf3a34d80"
+    "revision": "c510f8d73d03fea3d24ba03b9581c9dd"
   },
   {
     "url": "img/uploads/2018/08/Inkedamor-odio_LI-150x150.jpg",
-    "revision": "f16de9e87d5ae89fe7778598912cae10"
+    "revision": "52c1fec8b6a0ee3905847c2ae38d6d6c"
   },
   {
     "url": "img/uploads/2018/08/Inkedamor-odio_LI-300x231.jpg",
-    "revision": "955582f765af5d805679c76513a45e0d"
+    "revision": "e429e544e905a41c974c384251a1a62f"
   },
   {
     "url": "img/uploads/2018/08/Inkedamor-odio_LI-702x430.jpg",
-    "revision": "fe93b4847b45019fe34b5020c2d85c9c"
+    "revision": "d5f67dad2b1ce007ef3fa38a1ceec5ac"
   },
   {
     "url": "img/uploads/2018/08/Inkedamor-odio_LI.jpg",
-    "revision": "f598928c2e4cc2c32a14e0dddff1e09a"
+    "revision": "559f87b15d1d38b006c97d53ad842d96"
   },
   {
     "url": "img/uploads/2018/09/dojodesenho-150x150.jpg",
-    "revision": "996d56e73cd4a04d922c7a6a00766280"
+    "revision": "356e4e2bfc47088221b2dfa07f723d95"
   },
   {
     "url": "img/uploads/2018/09/dojodesenho-300x220.jpg",
-    "revision": "45a6d0f628e87e589f205e4b3f42b318"
+    "revision": "064176a45373eb54827afd246ce00581"
   },
   {
     "url": "img/uploads/2018/09/dojodesenho-50x50.jpg",
-    "revision": "797d63da1c2ecff4be9fd81dc0f70c1d"
+    "revision": "1f732c202ea38d9500a219baa3a47e66"
   },
   {
     "url": "img/uploads/2018/09/dojodesenho.jpg",
-    "revision": "e0eebec039b4ba45255b6cee4c00441a"
+    "revision": "9804e966a51a8078c3142d21396b9739"
   },
   {
     "url": "img/uploads/2018/09/f-aReEUB_400x400-150x150.jpg",
-    "revision": "7758ed16f5d1ce24ec3275a961025e74"
+    "revision": "c9cce091be2b997e0892051eb1c0ca1b"
   },
   {
     "url": "img/uploads/2018/09/f-aReEUB_400x400-300x300.jpg",
-    "revision": "af3ae296100e31cd4be73f07f2ebf663"
+    "revision": "be2ff05fe533c4786d77bd2a70c17141"
   },
   {
     "url": "img/uploads/2018/09/f-aReEUB_400x400-50x50.jpg",
-    "revision": "8155e63740a4d6ab0e19ba90b10b51e5"
+    "revision": "f5d31b95a540df7dd0d850b5a9d74b84"
   },
   {
     "url": "img/uploads/2018/09/f-aReEUB_400x400.jpg",
-    "revision": "33dc1e6cdd88769d3b952f3020940c62"
+    "revision": "c621c9b2d9d709e486c79055638770a9"
   },
   {
     "url": "img/uploads/2018/09/fiapx-150x150.png",
-    "revision": "869875173b0a65d39099d36c59fb52df"
+    "revision": "668c703819f16811f11383b0e457e043"
   },
   {
     "url": "img/uploads/2018/09/fiapx-300x98.png",
-    "revision": "a03890291f099fa358a22cde5b236c18"
+    "revision": "0c97917a8c2c5cbc1da307013bcbb62f"
   },
   {
     "url": "img/uploads/2018/09/fiapx-50x50.png",
-    "revision": "dfb79970d65caef1cc10432681215af7"
+    "revision": "5f25754d8d396a2ce4d94540d4bfac20"
   },
   {
     "url": "img/uploads/2018/09/fiapx.png",
-    "revision": "ae93a35a966fe9be0feaa522db1fcc51"
+    "revision": "54853769e013cb7d47479acceda9b557"
   },
   {
     "url": "img/uploads/2018/09/hack-n-cast-beta-150x142.png",
-    "revision": "c7417002c8f5115ce73819c21695966a"
+    "revision": "cd15782bdae248d0ef7dc921bd7524ee"
   },
   {
     "url": "img/uploads/2018/09/hack-n-cast-beta-300x142.png",
-    "revision": "58b3d20691b0d007a07b22110e0e95be"
+    "revision": "fc217772e186d83526ab5e20c450db0c"
   },
   {
     "url": "img/uploads/2018/09/hack-n-cast-beta-50x50.png",
-    "revision": "9653e165d080b58f1b456ac4f2ef9631"
+    "revision": "17e1383706e5ed2b065afec5cf72614e"
   },
   {
     "url": "img/uploads/2018/09/hack-n-cast-beta.png",
-    "revision": "d9ac50d8744b58d7e59a4ccd690e9230"
+    "revision": "3bcd6a6fec57f8b0f13f849122436898"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1-150x150.jpg",
-    "revision": "e8acd2b5346f605d75ffe7c12340aedf"
+    "revision": "36a38656c9631069764db05652d2eaab"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1-300x300.jpg",
-    "revision": "f3a25a116b9b50748adc58f3b1a9d50b"
+    "revision": "88b92d1b7201ad502cb5517ea70d56ec"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1-50x50.jpg",
-    "revision": "c5e257a1381d723a56f526b5a0db8156"
+    "revision": "187f9877fa59f89e1ce96536c49fc103"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1-740x430.jpg",
-    "revision": "b74a9287f3cd1c9337bdac7bc2c7e558"
+    "revision": "cc9035a76395f8a5384c7b65ed01b69b"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1-768x768.jpg",
-    "revision": "e7aa8cc6bfe7b9f9a4b984672f9678d0"
+    "revision": "be30a15d577c4d1b5fc4b190d6aeb1a4"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1-881x600.jpg",
-    "revision": "4d36118e93e7519d22850f40d3d4469d"
+    "revision": "eea41c7ddfeac8cb4de858d2f58ca2cb"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-1.jpg",
-    "revision": "e733c56ec434cf1f9a078a4995aeeecc"
+    "revision": "494f3b87e608847c44e11a05bd6182e0"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-150x150.jpg",
-    "revision": "e8acd2b5346f605d75ffe7c12340aedf"
+    "revision": "36a38656c9631069764db05652d2eaab"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-300x300.jpg",
-    "revision": "f3a25a116b9b50748adc58f3b1a9d50b"
+    "revision": "88b92d1b7201ad502cb5517ea70d56ec"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-50x50.jpg",
-    "revision": "c5e257a1381d723a56f526b5a0db8156"
+    "revision": "187f9877fa59f89e1ce96536c49fc103"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-740x430.jpg",
-    "revision": "b74a9287f3cd1c9337bdac7bc2c7e558"
+    "revision": "cc9035a76395f8a5384c7b65ed01b69b"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-768x768.jpg",
-    "revision": "e7aa8cc6bfe7b9f9a4b984672f9678d0"
+    "revision": "be30a15d577c4d1b5fc4b190d6aeb1a4"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2-881x600.jpg",
-    "revision": "4d36118e93e7519d22850f40d3d4469d"
+    "revision": "eea41c7ddfeac8cb4de858d2f58ca2cb"
   },
   {
     "url": "img/uploads/2018/09/IMG_4830-2.jpg",
-    "revision": "e733c56ec434cf1f9a078a4995aeeecc"
+    "revision": "494f3b87e608847c44e11a05bd6182e0"
   },
   {
     "url": "img/uploads/2018/09/mojodojo-150x150.jpg",
@@ -615,87 +615,87 @@ self.__precacheManifest = [
   },
   {
     "url": "img/uploads/2018/09/mojodojo.jpg",
-    "revision": "7296a1665bef57d540488e95ad68aed3"
+    "revision": "4f9a9ff58a88142e766ad8dcd7ec9650"
   },
   {
     "url": "img/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es-150x150.png",
-    "revision": "b126a349a40b068a5be23806163de712"
+    "revision": "0db99051324de61b78dd87d035e950be"
   },
   {
     "url": "img/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es-300x184.png",
-    "revision": "2e31cefcf426e3b40a32afa09b24e09c"
+    "revision": "4fc37cfb5da0a383a199204468bb5cbf"
   },
   {
     "url": "img/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es-50x50.png",
-    "revision": "923477c1122b45963065655a15c14435"
+    "revision": "d265793722c0f27e65672f38d1633353"
   },
   {
     "url": "img/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es-700x430.png",
-    "revision": "4620b9521773735dfa6611d3a7a317a0"
+    "revision": "6d5a23500104c1848d89952184a2319b"
   },
   {
     "url": "img/uploads/2018/09/sistema-descentralizado-de-controle-de-versc3b5es.png",
-    "revision": "269d860f79bf7a95f4d08ae8129631bb"
+    "revision": "0f0e28959d728e466e078af40e45918f"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente-150x150.png",
-    "revision": "3370bc09ac9edc0c8f4e352f45f442d0"
+    "revision": "f1a2bc632eb11e59d2b2dad50674e427"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente-300x184.png",
-    "revision": "80c7a3fc63a846d44f4fb156fd4b324f"
+    "revision": "42177e94863dc57624ffee68a0fb794f"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente-50x50.png",
-    "revision": "d19d61d4de0d78d461c80750940fd02b"
+    "revision": "8927d52a7b55f5acc8e019b3a4ac3bb9"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente-700x430.png",
-    "revision": "541d3a0c3debc92c07e85edd2b596f4b"
+    "revision": "34a614d0549b816e32b935f84df34494"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-localmente.png",
-    "revision": "74e5eb0bd047fd5d1e4e1a64829ba3f8"
+    "revision": "7027c49c3e3e6ab1f44433ce5e89f5cc"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-remoto-e-github-150x150.png",
-    "revision": "155d74e9a56829e52354b53559082563"
+    "revision": "535d34fa2072fcdb827df2c4932d89df"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-remoto-e-github-300x184.png",
-    "revision": "4d74941c9e5712b0c7966d104b66ff80"
+    "revision": "a54a403e9c08a852987d81c154b3cb5f"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-remoto-e-github-50x50.png",
-    "revision": "dac9b82fceb8b1d3fe3ec6d7cebe9bb0"
+    "revision": "0fcb4b08d898db576478669d61b04928"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-remoto-e-github-700x430.png",
-    "revision": "170312f160bd1b8c60d016b517f96295"
+    "revision": "c6d276d2f580b45729d4e271e7b91eec"
   },
   {
     "url": "img/uploads/2018/09/trabalhando-com-um-repositc3b3rio-remoto-e-github.png",
-    "revision": "a03031123ac4ae93d1ab672708eddd81"
+    "revision": "eab4c3ce91b72ada41f9e1189f93d771"
   },
   {
     "url": "img/uploads/2018/11/5-min-journal-1024x841.jpg",
-    "revision": "16f9b6689090176a7218d6b57faf58ce"
+    "revision": "6258a18e5e8ffd5d1b7475e2c0c7c7c3"
   },
   {
     "url": "img/uploads/2018/11/5-min-journal-150x150.jpg",
-    "revision": "1d026fef1db0e941da72f97c998280a0"
+    "revision": "93b4380e2d1db9d962bc93261cd05974"
   },
   {
     "url": "img/uploads/2018/11/5-min-journal-300x246.jpg",
-    "revision": "df65c0bfd7ad54a34507e3f5dd7a92ad"
+    "revision": "09077ac6bc470f91c88f3b4e01dd06ec"
   },
   {
     "url": "img/uploads/2018/11/5-min-journal-768x631.jpg",
-    "revision": "340e309876952c00af153e1902e497bd"
+    "revision": "1a574b6a224e2e04da4f39e5e3ac9452"
   },
   {
     "url": "img/uploads/2018/11/5-min-journal.jpg",
-    "revision": "193b4856469a58c3260a4c4545f6bb1a"
+    "revision": "d43ec546f10d9937fe4c70cb30cdb1a7"
   },
   {
     "url": "img/uploads/2018/11/Anotação-2018-11-12-001248-150x150.jpg",
@@ -707,7 +707,7 @@ self.__precacheManifest = [
   },
   {
     "url": "img/uploads/2018/11/Anotação-2018-11-12-001248.jpg",
-    "revision": "39857ce8c0a759db8f5c2ad955f09ab0"
+    "revision": "506615ece153ae912f21eab7addae554"
   },
   {
     "url": "index.html",
