@@ -64,17 +64,18 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("docs");
     eleventyConfig.addPassthroughCopy("css");
     eleventyConfig.addPassthroughCopy("manifest.json");
+    eleventyConfig.addPassthroughCopy('CNAME');
   }
 
   function setupMarkdown() {
-    let markdownIt = require("markdown-it");
-    let markdownItAnchor = require("markdown-it-anchor");
-    let options = {
+    const markdownIt = require("markdown-it");
+    const markdownItAnchor = require("markdown-it-anchor");
+    const options = {
       html: true,
       breaks: true,
       linkify: true
     };
-    let opts = {
+    const opts = {
       permalink: true,
       permalinkClass: "direct-link",
       permalinkSymbol: "#"
