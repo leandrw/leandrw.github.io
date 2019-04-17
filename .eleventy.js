@@ -60,9 +60,7 @@ module.exports = function(eleventyConfig) {
   }
 
   function setupPassThrough() {
-    eleventyConfig.addPassthroughCopy("img");
     eleventyConfig.addPassthroughCopy("docs");
-    eleventyConfig.addPassthroughCopy("css");
     eleventyConfig.addPassthroughCopy("manifest.json");
     eleventyConfig.addPassthroughCopy('CNAME');
   }
