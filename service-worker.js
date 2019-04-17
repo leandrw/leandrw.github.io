@@ -27,31 +27,35 @@ workbox.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "68d06c97820fb5ea234e215d8c9d97e1"
+    "revision": "6113e5f84588a6e4ac6d6a5f1687910c"
   },
   {
     "url": "a-inovacao-da-solidao/index.html",
-    "revision": "0811dca8c2b35630a8adb4d24c98f815"
+    "revision": "9a8742a5ea4dbf92aa6297988a0143a3"
   },
   {
     "url": "about-me-servico-gratuito-para-quem-precisa-somente-de-uma-pagina-sobre-si/index.html",
-    "revision": "59d01d348be777b82a2af8d5dc81f78f"
+    "revision": "1740ddd59f883ebf32fa1aa41f782bcf"
   },
   {
     "url": "about/index.html",
-    "revision": "f75bc73cf6bc864ca8b8debddf254942"
+    "revision": "36b15b147eb634e7febc7135a736ec9c"
+  },
+  {
+    "url": "blog/index.html",
+    "revision": "5c674853ca5baec228a97d92e12da507"
   },
   {
     "url": "contato/index.html",
-    "revision": "0c0209c8eac23a0777fbafda53a58b68"
+    "revision": "12efb8096be0b062bef4868a14872378"
   },
   {
     "url": "css-do-odeio-essa-m-a-deixa-comigo/index.html",
-    "revision": "052037a24c7b4e37d52cdbce7375aaf8"
+    "revision": "bb91fa4bd45032721e191094ee70827d"
   },
   {
     "url": "css/_variables.css",
-    "revision": "3b23a638c8d507d0431c82d40f794676"
+    "revision": "bb3321e8df7b64315173c9d115adb5bb"
   },
   {
     "url": "css/components/_base.css",
@@ -95,27 +99,27 @@ self.__precacheManifest = [
   },
   {
     "url": "dojo-sp-um-grupo-de-coding-dojo-dinamico-e-amistoso-na-terra-da-garoa/index.html",
-    "revision": "70a9b1ff7b3299dd03d317281f2b4d4c"
+    "revision": "246fb3ead596f12fa61239cb418be840"
   },
   {
     "url": "fiap-x-um-podcast-sobre-tecnologia-da-fiap/index.html",
-    "revision": "f468d47d25cb220868b96739f033ad46"
+    "revision": "f6b5a43a14feb3d03905bf47d7c4e4d4"
   },
   {
     "url": "git-sistema-descentralizado-de-controle-de-versoes/index.html",
-    "revision": "2b31fb39ab474db3853e14f443f32976"
+    "revision": "8bafa8a282ef272c6ccd90f3ad26ae3f"
   },
   {
     "url": "git-trabalhando-com-um-repositorio-localmente/index.html",
-    "revision": "bec621ffd980a8ee9af5579974bd0856"
+    "revision": "1c52213fce913b24d3a2d6cd3a5b9fa2"
   },
   {
     "url": "git-trabalhando-com-um-repositorio-remoto-e-github/index.html",
-    "revision": "e28ad597ecf76ad87490cc3d5cdd5a17"
+    "revision": "9dd2327ef52f3e330c2a74875b054313"
   },
   {
     "url": "hack-n-cast-um-podcast-brasileiro-sobre-cultura-hacker/index.html",
-    "revision": "aefa1cdb72a1f522809a36e3e9e9e86a"
+    "revision": "b8f4d09cc5dbbe3fe992e949bffac39c"
   },
   {
     "url": "img/192x192.jpg",
@@ -707,243 +711,239 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8c4423c304c8b0c09f7faced731f8f93"
+    "revision": "fbb1a68e49d45e31e988f168789e8b1d"
   },
   {
     "url": "livros-referencia-de-ti-e-desenvolvimento-de-software-de-qualidade-com-download-gratuito/index.html",
-    "revision": "312c266dbde4b25ef23066ceddc8a298"
+    "revision": "0a9ec7aa9d909298e8b9de87af14c92f"
   },
   {
     "url": "manifest.json",
     "revision": "a5b81738ea4205cd9de1830036a2e68e"
   },
   {
-    "url": "posts/index.html",
-    "revision": "0a2ce57af66bb897be390ce295f16cb7"
-  },
-  {
     "url": "precisamos-elaborar-redes-sociais-que-levem-a-mudancas-reais/index.html",
-    "revision": "78e7b068723cbea61d795dc1a2cb0a69"
+    "revision": "a68e11eb17bdfbae067fcd3898519d03"
   },
   {
     "url": "problemas-com-o-curl-ao-atualizar-o-opensuse/index.html",
-    "revision": "a00316aa8aa223f5a4018d6e34a420f2"
+    "revision": "50f09a3fd911fda72df6cf6b5e45e691"
   },
   {
     "url": "querido-diario-de-5-minutos/index.html",
-    "revision": "3f92ece0fd2c66d143ff11b905536f5f"
+    "revision": "9610c145b7431ee5dddaa10d61b70f7b"
   },
   {
     "url": "speedup-wsl-by-disabling-windows-real-time-protection/index.html",
-    "revision": "f3156589f8eacc914b3b0c030f6b2b4c"
+    "revision": "27995a71764d41cfe1743d9f2e745155"
   },
   {
     "url": "tabela-de-salarios-de-profissoes-da-area-de-ti/index.html",
-    "revision": "95563034adb0ce24819bc37b94b6ccce"
+    "revision": "bd3b98a3ec802f5af7ef76828c6915c3"
   },
   {
     "url": "tags/agile/index.html",
-    "revision": "ad53097c059191d51c13bf02a90ad41d"
+    "revision": "4202d2db18c4d5f040d155f3367365bf"
   },
   {
     "url": "tags/Antivirus/index.html",
-    "revision": "30ea592a144ea6f2fafb1c13df46d660"
+    "revision": "03d1767b03d7d8947c91d8f748bf82e1"
   },
   {
     "url": "tags/autoconhecimento/index.html",
-    "revision": "cf6b127906624dc870367bd3bc259938"
+    "revision": "d4b6c78042236fa38a6f36887590571c"
   },
   {
     "url": "tags/AV/index.html",
-    "revision": "e310a3f01662bc1cedea131c504118de"
+    "revision": "49ee1650b9a0d1e656cbab411fb91f39"
   },
   {
     "url": "tags/bem/index.html",
-    "revision": "52530ddebef5411a027eb87ba539e1de"
+    "revision": "8695e329c4cd5fd0b0d296527f9bdcec"
   },
   {
     "url": "tags/CMD/index.html",
-    "revision": "d1e75680e765915afadd69fab8051d4a"
+    "revision": "cb5621afb7d2807978d556aca4940298"
   },
   {
     "url": "tags/coding dojo/index.html",
-    "revision": "0c6117ddef9580543baded541d93824f"
+    "revision": "dfce9d204880535da794bcee216af3cf"
   },
   {
     "url": "tags/comunidade/index.html",
-    "revision": "e901521bc72e2a19a44e76cdff0a253b"
+    "revision": "b3295027126f1f18fe37a8bb80db09d5"
   },
   {
     "url": "tags/controle de versão/index.html",
-    "revision": "4157e0346d24157eaaa519f7600fac58"
+    "revision": "aac2cbd272ff51c0c98f6c25faa5cf4a"
   },
   {
     "url": "tags/css/index.html",
-    "revision": "9d94ba593ad94a79764004f6abc30b72"
+    "revision": "2044ba1145cac338c610053f38818e63"
   },
   {
     "url": "tags/curl/index.html",
-    "revision": "75b63072bc9d34e12a91893ec879598c"
+    "revision": "31c98a9a6a609c9cd0aa1c0980f459b7"
   },
   {
     "url": "tags/desenvolvimento pessoal/index.html",
-    "revision": "863f64c9fc713450a1f5dff15ad081d7"
+    "revision": "1e55ec101de21a4a8b66551c2ecff823"
   },
   {
     "url": "tags/diário/index.html",
-    "revision": "9c0359315c7ba030edde936a70dfff3d"
+    "revision": "a2eed0b3fca32a3f25e3266b3374af6d"
   },
   {
     "url": "tags/Disable Antivirus/index.html",
-    "revision": "d8e64d7aefab98e4c2899b73c8510c35"
+    "revision": "db43f39c127cb930a01fb661555dacc0"
   },
   {
     "url": "tags/fiap/index.html",
-    "revision": "fd8bb90f08cc857ce8d9da661695688e"
+    "revision": "d527b4185f3a4961e129c7d92eb9d2d9"
   },
   {
     "url": "tags/flexbox/index.html",
-    "revision": "2be296b7de5db9ba09e30d0cbf04fa57"
+    "revision": "31e7dd8ac39456afebb5841e55d19bb0"
   },
   {
     "url": "tags/git/index.html",
-    "revision": "a6de27a17fe16fb8deda30250372598a"
+    "revision": "a35e6f708949de715749ae8e3c5c8ff1"
   },
   {
     "url": "tags/github/index.html",
-    "revision": "549d706c67fa98c16dd7b71e050c3901"
+    "revision": "8b06cf01792b3205c99fbaef69f7d81c"
   },
   {
     "url": "tags/grid layout/index.html",
-    "revision": "d7e235984615dce626197616053f79a3"
+    "revision": "bffd11d9680e2da5c3c3ae82c770b88f"
   },
   {
     "url": "tags/hacker culture/index.html",
-    "revision": "05affe107b1eb4ef0212638f434ea427"
+    "revision": "f98e2aa6629a0aac4fc9bbbd576ad069"
   },
   {
     "url": "tags/index.html",
-    "revision": "0999b2fd2d7854395ac9a5171bc74703"
+    "revision": "0d8391c6666155da3a4949802f5d2d99"
   },
   {
     "url": "tags/ipv6/index.html",
-    "revision": "dd955c992aa7d230d37efb6fde389b09"
+    "revision": "d7fe33575ab3dd48619d26d7290ba4a3"
   },
   {
     "url": "tags/less/index.html",
-    "revision": "95e401ebe64690d675e10b1c38262a34"
+    "revision": "a95408e39c952f76669da45393eb7716"
   },
   {
     "url": "tags/Linux/index.html",
-    "revision": "84d63586b34389047bb9cec354f4b39d"
+    "revision": "7225ab2802b621b707e409f1494b9278"
   },
   {
     "url": "tags/oocss/index.html",
-    "revision": "7bcc08d6e25993401b90af4359d507e2"
+    "revision": "67571f4e72af5bbed5f71fde6679ac9b"
   },
   {
     "url": "tags/opensource/index.html",
-    "revision": "6b753a41a5d50ef6ee99cb6a48b76545"
+    "revision": "6a665a42d715406568b8a2bf2a86a3ef"
   },
   {
     "url": "tags/opensuse/index.html",
-    "revision": "8c119945bc9c02c7c6f524b450986763"
+    "revision": "800d01049ea6decd43f9bfd5dd5d2d4a"
   },
   {
     "url": "tags/pair programming/index.html",
-    "revision": "590116b7dbb20857f2b4f2102ce8a1d3"
+    "revision": "0392c15efa51ec6781c00f3d44f9ee0b"
   },
   {
     "url": "tags/podcast/index.html",
-    "revision": "b47aa3bae5424ddfc71149bbc13fa887"
+    "revision": "3d0fdaa3bfdbf6552f7e8e510faaa4b7"
   },
   {
     "url": "tags/Powershell/index.html",
-    "revision": "af376e91d0ef9528d99364ae5588dae9"
+    "revision": "c96b8e2f27baa84f80e8ac924ec72798"
   },
   {
     "url": "tags/problema/index.html",
-    "revision": "52dcbeee0ae4c668575c48a30565a728"
+    "revision": "cb84b9a9ffaea999fda03203b5b8244c"
   },
   {
     "url": "tags/produtividade/index.html",
-    "revision": "9758f8eaa2b7012461786dc49a9103ed"
+    "revision": "be63cedc0806df586858b6081a708a79"
   },
   {
     "url": "tags/Real-time protection/index.html",
-    "revision": "17cb399cd67a3238f059ef8145593625"
+    "revision": "d45a0702aa7ab332aebda9c09c807f4e"
   },
   {
     "url": "tags/salarios de ti/index.html",
-    "revision": "82e491a94874ad8765f0c4f82fe2d11b"
+    "revision": "4d28e9e0d09ba3e8360180680e4af34c"
   },
   {
     "url": "tags/sass/index.html",
-    "revision": "20e596b1d395bf350ac76a2145726a8e"
+    "revision": "ec52ef688255aca12a830831bc1b85ae"
   },
   {
     "url": "tags/Security/index.html",
-    "revision": "c3ea986bed4e49a812821dc78dabc96f"
+    "revision": "f648d23c104a4bf342900fb5640f7e79"
   },
   {
     "url": "tags/Shortcut/index.html",
-    "revision": "04545b0313f8f1194ae7b151cc6bb3f2"
+    "revision": "c9808285ba3fd468f9c62fd74a26b6de"
   },
   {
     "url": "tags/smacss/index.html",
-    "revision": "1f9ad9cc87f04a9f629b2b279ed5ee21"
+    "revision": "f48cd3f05541c38b27c160cc7ab8ad5f"
   },
   {
     "url": "tags/solução/index.html",
-    "revision": "5590cff6e617a1a57e7eb4220dba6404"
+    "revision": "bbfe83aef8487dcdea35aa2672a7aaa7"
   },
   {
     "url": "tags/sp/index.html",
-    "revision": "658862ea2c6065fc397e39457a39cd55"
+    "revision": "8d9727d39c18b22df089115ce6a6f184"
   },
   {
     "url": "tags/tagList/index.html",
-    "revision": "cb150b60843ac1bbd71174a34cac9c7a"
+    "revision": "66422175a696388e5b4b22ad4206c28f"
   },
   {
     "url": "tags/testes/index.html",
-    "revision": "5db089a8dadac868da7485b2dcedac72"
+    "revision": "7b2208403ecad2af0c3fc36a9b817083"
   },
   {
     "url": "tags/Tips/index.html",
-    "revision": "95e7f3f68caaeea7267dc6b8f96379f0"
+    "revision": "e0688d93b2870ffeb6ee291eee02b03c"
   },
   {
     "url": "tags/Transparency/index.html",
-    "revision": "25f55e068bcaa6d1520838ded445c8f2"
+    "revision": "1975d76b565fc6ce2b910bd40fc42add"
   },
   {
     "url": "tags/Windows/index.html",
-    "revision": "530500581d6435d26111b5896bf062f5"
+    "revision": "c9ac7de3785d278a47392eec7612f2fc"
   },
   {
     "url": "tags/workstation/index.html",
-    "revision": "e15dfaab6c9f0b178a389a2e4f8459b7"
+    "revision": "b2cb3a7fb3522e862abd0d1dca0406f0"
   },
   {
     "url": "tags/WSL/index.html",
-    "revision": "e913fef10028380f76d7b4b4b74108e5"
+    "revision": "bddab8ae4184fdc6b1f4819fb17011d8"
   },
   {
     "url": "tags/zypper/index.html",
-    "revision": "413a49deff2e4ca54650b01f4c2103ea"
+    "revision": "d3f555862b5b6889d70e7790c5ee41d4"
   },
   {
     "url": "universidade-lanca-colecao-de-livros-digitais-para-download-gratuito/index.html",
-    "revision": "74fff7953d59f5ead4a7cf1bc2d2ee74"
+    "revision": "24f4d2d75eb8d04be4a54d9a666a16c6"
   },
   {
     "url": "windows-command-line-tip-easily-change-window-transparency/index.html",
-    "revision": "f039df98b65793a45e404d7986020333"
+    "revision": "a5167e9b28d96c4d89a7571b28c2f0ce"
   },
   {
     "url": "workstation-inicio-2018/index.html",
-    "revision": "6922213f457412285d01a874a7539e46"
+    "revision": "9947fd7286608c2e6aa61e124b767255"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
