@@ -44,13 +44,13 @@ Digamos que você tem os seguintes códigos HTML e CSS:
 </div>
 
 <style>
-#container span {
-  color: blue;
-}
+  #container span {
+    color: blue;
+  }
 
-.my-container .text.red {
-  color: red;
-}
+  .my-container .text.red {
+    color: red;
+  }
 </style>
 ```
 Qual você acha que será a cor do texto?

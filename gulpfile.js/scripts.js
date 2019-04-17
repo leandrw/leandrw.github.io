@@ -1,7 +1,7 @@
-const { task, src, dest } = require('gulp');
+const { dest } = require('gulp');
 const browserify = require('browserify');
 
-task('scripts', () => {
+function scripts() {
   const b = browserify({
     entries: './js/main.js',
     debug: true
@@ -12,5 +12,7 @@ task('scripts', () => {
     sourceMaps: true,
   })
     .bundle()
-    .pipe(dest('./_site/js'))
-});
+    .pipe(dest('./_site/js'));
+}
+
+module.exports = { scripts };
